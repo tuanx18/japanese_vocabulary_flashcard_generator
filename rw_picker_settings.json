@@ -1,0 +1,24 @@
+{
+  "types": {
+    "n": true,
+    "v": true,
+    "adj": true,
+    "other": true
+  },
+  "levels": {
+    "H": true,
+    "K": true,
+    "N1": false,
+    "N2": true,
+    "N3": true,
+    "N4": true,
+    "N5": true
+  },
+  "show_romanji": false,
+  "show_meaning": false,
+  "show_category": true,
+  "show_level": true,
+  "pick_count": 30,
+  "english_font_size": 33,
+  "romanji_font_size": 22
+}

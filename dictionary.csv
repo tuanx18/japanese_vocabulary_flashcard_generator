@@ -1,0 +1,2466 @@
+﻿id,english,japanese,romanji,type,category,format,level
+1,dog,犬,inu,n,animal,,N5
+2,cat,猫,neko,n,animal,,N3
+3,friend,友達,tomodachi,n,,,N3
+4,go,行く,iku,v,,godan,N5
+5,teacher,先生,sensei,n,job,,N5
+6,father,父親,chichioya,n,family,,N4
+7,bear,くま,kuma,n,animal,,H
+8,apple,りんご,ringo,n,fruit,,H
+9,today,今日,kyō,,,,N5
+10,movie,映画,eiga,n,,,N4
+11,movie theater,映画館,eigakan,n,,,N4
+12,watch ,見る,miru,v,,ichidan,N5
+13,play,遊ぶ,asobu,v,,godan,N3
+14,you,あなた,anata,,,,H
+15,I,私,watashi,,,,N5
+16,eat,食べる,taberu,v,,ichidan,N5
+17,horse,馬,uma,n,animal,,N3
+18,large,大きい,ookii,adj,,I,N5
+19,write,書く,kaku,v,,godan,N5
+20,book,本,hon,n,,,N5
+21,park,公園,kōen,n,place,,N3
+22,tiger,虎,tora,n,animal,,N1
+23,wake up,起きる ,okiru,v,,ichidan,N4
+24,juice,ジュース,jūsu,n,,,K
+25,pink,ピンク,pinku,adj,color,,K
+26,read,読む,yomu,v,,godan,N5
+27,honey,蜂蜜 ,hachimitsu,n,food,,N1
+28,bread,パン,pan,n,food,,K
+29,younger sister,妹,imōto,n,family,,N4
+30,mother,母親,hahaoya,n,family,,N4
+31,please,ください,kudasai,,,,H
+32,green,緑,midori,adj,color,,N2
+33,blue,青,ao,adj,color,,N4
+34,red,赤,aka,adj,color,,N4
+35,yellow,黄色,kiiro,adj,color,,N2
+36,white,白,shiro,adj,color,,N5
+37,black,黒,kuro,adj,color,,N4
+38,grey,灰色,haiiro,adj,color,,N2
+39,brown,茶色,chairo,adj,color,,N4
+40,orange,オレンジ,orenji,adj,color,,K
+41,purple,紫,murasaki,adj,color,,N1
+42,wear,着る ,kiru,v,,ichidan,N4
+43,quickly,早く,hayaku,adv,,,N4
+44,lawyer,弁護士,bengoshi,n,job,,N1
+45,hot,熱い,atsui,adj,,,N3
+46,cold,寒い,samui,adj,,,N3
+47,house/home,家,ie,n,,,N4
+48,like,好き,suki,adj,feeling,NA,N5
+49,pen,ペン,pen,n,object,,K
+50,banana,バナナ,banana,n,fruit,,K
+51,grape,グレープ,gurēpu,n,fruit,,K
+52,milk,牛乳,gyūnyū,n,food,,N2
+53,music,音楽,ongaku,n,,,N4
+54,watermelon,スイカ,suika,n,fruit,,K
+55,pizza,ピザ,piza,n,food,,K
+56,convenience store,コンビニ,konbini,n,place,,K
+57,hotel,ホテル,hoteru,n,place,,K
+58,chicken,鶏,tori,n,animal,,N1
+59,have,持っている,motte iru,v,status,,N4
+60,turtle,カメ,kame,n,animal,,K
+61,car,車,kuruma,n,transportation,,N5
+62,buy,買う,kau,v,,godan,N5
+63,sleep,寝る,neru,v,,ichidan,N3
+64,tall,高い,takai,adj,,,N5
+65,short,短い,mijikai,adj,,,N2
+66,Vietnam,ベトナム,betonamu,n,country,,K
+67,Japan,日本,nihon,n,country,,N5
+68,America,アメリカ,amerika,n,country,,K
+69,England,イギリス,irigisu,n,country,,K
+70,Brazil,ブラジル,burajiru,n,country,,K
+71,people,人,hito,n,,,N5
+72,do/play,する,suru,v,,special,H
+73,come,来る,kuru,v,,special,N5
+74,believe,信じる,shinjiru,v,,ichidan,N3
+75,teach/tell,教える,oshieru,v,,ichidan,N4
+76,forget,忘れる ,wasureru,v,,ichidan,N3
+77,pineapple,パイナップル,painappuru,n,fruit,,K
+78,speak/talk,話す,hanasu,v,,godan,N5
+79,listen/ask,聞く,kiku,v,,godan,N5
+80,drink,飲む,nomu,v,,godan,N4
+81,swim,泳ぐ,oyogu,v,,godan,N5
+82,take/pick up,取る,toru,v,,godan,N3
+83,money/cash,お金,okane,n,,,N5
+84,thing,もの,mono,n,,,H
+85,supermarket,スーパー,sūpā,n,place,,K
+86,department store,デパート,depāto,n,place,,K
+87,tomorrow,明日,ashita,,,,N4
+88,tonight,今夜,kon'ya,,,,N4
+89,food,食べ物,tabemono,n,,,N5
+90,always/everytime,いつも,itsumo,adv,frequency,,H
+91,university,大学,daigaku,n,place,,N5
+92,study,勉強する,benkyō suru,v,,special,N4
+93,often,よく,yoku,adv,frequency,,H
+94,sometimes,時々,tokidoki,adv,frequency,,N5
+95,not at all/never,全然,zenzen,adv,frequency,,N3
+96,rarely/seldomly,あまり,amari,adv,degree,,H
+97,restaurant,レストラン,resutoran,n,,,K
+98,everyday/daily,毎日,mainichi,adv,frequency,,N5
+99,tennis,テニス,tenisu,n,sport,,K
+100,football,フットボール,futtobōru,n,sport,,K
+101,baseball,野球,yakyū,n,sport,,N3
+102,sometimes/occasionally,たまに,tamani,adv,frequency,,H
+103,usually/generally,たいてい,taitei,adv,frequency,,H
+104,use,使う,tsukau,v,,godan,N4
+105,cook,料理,ryōri,v,,godan,N4
+106,left,左,hidari,adv,direction,,N5
+107,right,右,migi,adv,direction,,N5
+108,behind,後ろ,ushiro,adv,direction,,N5
+109,in front of,前,mae,adv,direction,,N5
+110,on/above,上,ue,adv,direction,,N5
+111,under,下,shita,adv,direction,,N5
+112,inside,中,naka,adv,direction,,N5
+113,nearby/near,近く,chikaku,adv,direction,,N5
+114,next to,隣,tonari,adv,direction,,N1
+115,between,あいだ,aida,adv,direction,,H
+116,chair,椅子,isu,n,furniture,,N3
+117,menu,メニュー,menyū,n,,,K
+118,wait,待つ,matsu,v,,godan,N4
+119,understand,分かる,wakaru,v,,godan,N5
+120,meet,会う,au,v,,godan,N5
+121,run,走る,hashiru,v,,godan,N4
+122,since/from,から,kara,,,,H
+123,museum,博物館,hakubutsukan,n,place,,N1
+124,tree,木,ki,n,,,N5
+125,furnace,炉,ro,n,,,N1
+126,winter,冬,fuyu,n,season,,N5
+127,summer,夏,natsu,n,season,,N5
+128,spring,春,haru,n,season,,N5
+129,autumn,秋,aki,n,season,,N5
+130,older sister,姉,ane,n,family,,N5
+131,building,建物,tatemono,n,place,,N5
+132,younger brother,弟,otōto,n,family,,N5
+133,older brother,兄,ani,n,family,,N5
+134,passport,パスポート,pasupōto,n,travelling,,K
+135,smartphone,スマホ,sumaho,n,technology,,K
+136,map,地図,chizu,n,travelling,,N4
+137,water,水,mizu,n,food,,N5
+138,ticket,切符,kippu,n,travelling,,N2
+139,subway,地下鉄,chikatetsu,n,vehicle,,N2
+140,airport,空港,kūkō,n,place,,N3
+141,now,今,ima,,,,N5
+142,plane,飛行機,hikōki,n,transportation,,N3
+143,badminton,バドミントン,badominton,n,sport,,K
+144,interesting/funny,面白い,omoshiroi,adj,,I,N3
+145,cute,かわいい,kawaii,adj,,I,N3
+146,shoe,靴,kutsu,n,clothes,,N3
+147,hat,帽子,bōshi,n,clothes,,N2
+148,coat,コート,kōto,n,clothes,,K
+149,pant,パンツ,pantsu,n,clothes,,K
+150,shirt,シャツ,shatsu,n,clothes,,K
+151,delicious/tasty,美味しい,oishii,adj,,I,N3
+152,difficult,難しい,muzukashii,adj,,I,N3
+153,hate/dislike,嫌い,kirai,adj,feeling,NA,N1
+154,quiet,静か,shizuka,adj,,NA,N3
+155,beautiful,きれい,kirei,adj,,NA,H
+156,famous,有名,yūmei,adj,,NA,N4
+157,convenient,便利,benri,adj,,NA,N3
+158,important,大切,taisetsu,adj,,NA,N4
+159,small,小さい,chīsai,adj,,I,N5
+160,flower,花,hana,n,nature,,N4
+161,good,いい,ii,adj,,special,H
+162,busy,忙しい,isogashī,adj,,I,N3
+163,happy,嬉しい,ureshī,adj,feeling,I,N1
+164,cool,格好い,kakkōī,adj,,I,N3
+165,many/much,多い,ooi,adj,,I,N4
+166,cheap,安い,yasui,adj,,I,N4
+167,expensive/tall,高い,takai,adj,,I,N5
+168,new,新しい,atarashii,adj,,I,N4
+169,old,古い,furui,adj,,I,N4
+170,long,長い,nagai,adj,,I,N5
+171,early/fast,早い,hayai,adj,,I,N4
+172,last year,昨年,sakunen,,time,,N3
+173,last month,先月,sengetsu,,time,,N5
+174,bad,悪い,warui,adj,,I,N4
+175,fish,魚,sakana,n,animal,,N4
+176,few/a little,少ない,sukunai,adj,,I,N4
+177,city,都市,toshi,n,place,,N3
+178,town,町,machi,n,place,,N4
+179,month,月,gatsu/getsu,n,time,,N5
+180,important/necessary,必要,hitsuyō,adj,,NA,N3
+181,word,語,go,n,language,,N5
+182,good/delicious,うまい,umai,adj,,I,H
+183,meat,肉,niku,n,food,,N4
+184,beef,牛肉,gyūniku,n,food,,N4
+185,cool/amazing,すごい,sugoi,adj,,I,H
+186,near/close,近い,chikai,adj,,I,N4
+187,school,学校,gakkō,n,place,,N5
+188,far,遠い,tōi,adj,,I,N3
+189,easy,簡単,kantan,adj,,NA,N2
+190,fun,"楽しい
+",tanoshii,adj,,I,N4
+191,nice/kind,優しい,yasashii,adj,,I,N3
+192,scary,怖い,kowai,adj,,I,N3
+193,spider,蜘蛛,kumo,n,animal,,N1
+194,boring,つまらない,tsumaranai,adj,,I,H
+195,low/short,低い,hikui,adj,,I,N2
+196,bright,明るい,akarui,adj,,I,N5
+197,sun,太陽,taiyō,n,nature,,N3
+198,daytime,日中,nitchū,,time,,N5
+199,dark,暗い,kurai,adj,,I,N3
+200,live,住む,sumu,v,,ichidan,N4
+201,deep,深い,fukai,adj,,I,N3
+202,ocean,海,umi,n,nature,,N4
+203,strong,強い,tsuyoi,adj,,I,N4
+204,monday,月曜日,getsuyōbi,n,time,,N4
+205,tuesday,火曜日,kayōbi,n,time,,N4
+206,wednesday,水曜日,suiyōbi,n,time,,N4
+207,thursday,木曜日,mokuyōbi,n,time,,N4
+208,friday,金曜日,kin'yōbi,n,time,,N4
+209,saturday,土曜日,doyōbi,n,time,,N4
+210,sunday,日曜日,nichiyōbi,n,time,,N4
+211,yesterday,昨日,kinō,,time,,N4
+212,furnace,炉,ro,n,furniture,,N1
+213,week,週,shū,n,,,N4
+214,there is/there are,あります,arimasu,,,,H
+215,laptop,ラップトップ,rappu toppu,n,technology,,K
+216,tell/teach/inform,教える,oshieru,v,,ichidan,N4
+217,tell,言う,iu,v,,godan,N4
+218,farm,農場,nōjō,n,place,,N2
+219,nurse,看護師,kangoshi,n,job,,N1
+220,office worker,会社員,kaishain,n,job,,N4
+221,smart/intelligent/clever,頭いい,atamaī,adj,,I,N3
+222,noisy,うるさい,urusai,adj,,I,H
+223,location/place,所,tokoro,n,,,N3
+224,borrow,借りる,kariru,v,,ichidan,N4
+225,farmer,農夫,noufu,n,job,,N2
+226,lake,湖,mizūmi,n,nature,,N2
+227,letter,手紙,tegami,n,,,N4
+228,fly,飛ぶ,tobu,v,,godan,N3
+229,pig,豚,buta,n,animal,,N1
+230,wear (shoes),履く,haku,v,,godan,N1
+231,until,まで,made,,,,H
+232,lamp,ランプ,ranpu,n,furniture,,K
+233,daughter,娘,musume,n,family,,N3
+234,son,息子,musuko,n,family,,N3
+235,important,重要,jūyō,n,,,N3
+236,hospital,病院,byōin,n,place,,N4
+237,lunch,昼ご飯,hiru gohan,n,,,N4
+238,beach,浜,hama,n,place,,N1
+239,duck,鴨,kamo,n,animal,,N1
+240,room,部屋,heya,n,,,N3
+241,connection,繋がり,tsunagari,n,,,N1
+242,last night,昨晩,last night,n,time,,N3
+243,story,話,hanashi,n,,,N5
+244,kitchen,台所,daidokoro,n,place,,N3
+245,jump,飛び上がる,tobiagaru,v,,godan,N3
+246,roof,屋根,yane,n,,,N2
+247,homework,宿題,shukudai,n,,,N3
+248,die,死ぬ,shinu,v,,godan,N4
+249,photo,写真,shashin,n,,,N4
+250,game,ゲーム,gēmu,n,,,K
+251,suck,吸う,suu,v,,godan,N3
+252,tabacco,タバコ,tabako,n,,,K
+253,Asia,アジア,ajia,n,country,,K
+254,actor,俳優,haiyū,v,job,,N1
+255,college teacher,大学教師,daigaku kyōshi,n,job,,N3
+256,some,いくつか,ikutsuka,,,,H
+257,future,将来,shōrai,,,,N2
+258,visit,訪れる,otozureru,v,,ichidan,N3
+259,time/when,時,toki,,,,N5
+260,age/years old,歳,sai,n,,,N3
+261,not ever/never,決して,kesshite,,,,N3
+262,park,駐車する,park,v,,special,N2
+263,wife,妻,tsuma,n,family,,N3
+264,husband,夫,otto,n,family,,N3
+265,garden,庭,niwa,n,place,,N3
+266,stadium,スタジアム,sutajiamu,n,place,,K
+267,sheep,羊,hitsuji,n,animal,,N1
+268,pillow,枕,makura,n,furniture,,N1
+269,key,鍵,kagi,n,,,N2
+270,library,図書館,toshokan,n,,,N4
+271,find,見つける,mitsukeru,v,,ichidan,N5
+272,engineer,エンジニア,enjinia,n,,,K
+273,fix,修理する,shūri suru,v,,special,N1
+274,man,男,otoko,n,,,N5
+275,bakery,ベーカリー,bēkarī,n,place,,K
+276,before,前に,mae ni,,,,N5
+277,English,英語,eigo,n,,,N4
+278,fridge,冷蔵庫,reizōko,n,furniture,,N2
+279,cheese,チーズ,chīzu,n,food,,K
+280,child,子供,kodomo,n,,,N3
+281,many/a lot,たくさん,takusan,,,,H
+282,pond,池,ike,n,nature,,N2
+283,president,社長,shachō,n,job,,N4
+284,drug/medicine,薬,kusuri,n,,,N3
+285,plant,植物,shokubutsu,n,nature,,N2
+286,wallet,財布,saifu,n,,,N2
+287,toy,玩具,omocha,n,,,N2
+288,boat,船,fune,n,transportation,,N3
+289,light,光,hikari,n,,,N3
+290,take a bath/bathing,浴びる,abiru,v,,ichidan,N2
+291,festival,祭り,matsuri,n,,,N2
+292,astronaut,宇宙飛行士,uchū hikō-shi,n,job,,N1
+293,piano,ピアノ,piano,n,,,K
+294,violin,バイオリン,baiorin,n,,,K
+295,helicopter,ヘリコプター,herikoputā,n,,,K
+296,fan,団扇,uchiwa,n,furniture,,N1
+297,sofa,ソファー,sofā,n,furniture,,K
+298,ladder,梯子,hashigo,n,furniture,,N1
+299,glass,眼鏡 ,megane,n,clothes,,N1
+300,phone,電話,denwa,n,,,N5
+301,principal,校長,kōchō,n,,,N5
+302,sing,歌う,utau,v,,godan,N4
+303,singer,歌手,kashu,n,job,,N4
+304,fountain,噴水,funsui,n,furniture,,N1
+305,back,背中,senaka,n,body part,,N3
+306,job,医者,isha,n,job,,N4
+307,shovel,シャベル,shaberu,n,,,K
+308,cave,洞窟,dōkutsu,n,nature,,N1
+309,uniform,制服,seifuku,n,clothes,,N3
+310,hat,帽子,bōshi,n,clothes,,N2
+311,church,教会,kyōkai,n,place,,N4
+312,sky,空,sora,n,nature,,N4
+313,giraffe,キリン,kirin,n,animal,,K
+314,technology,技術,gijutsu,n,technology,,N2
+315,rule,規則,kisoku,n,,,N2
+316,baby/infant,幼児,yōji,n,family,,N2
+317,bookshelf,本棚,hondana,n,furniture,,N1
+318,carpet/rug,絨毯,jūtan,n,furniture,,N1
+319,various,色々,iroiro,adj,,NA,N4
+320,dream,夢,yume,n,,,N3
+321,sit,座る,suwaru,v,,godan,N3
+322,return/turn back,戻る,modoru,v,,godan,N3
+323,firetruck,消防車,shōbōsha,n,transportation,,N2
+324,box,箱,hako,n,,,N3
+325,test/exam, 試験,shiken,n,,,N4
+326,but,けど,kedo,,,,H
+327,world,世界,sekai,n,,,N4
+328,trip,旅行,ryokō,n,,,N4
+329,blackboard,黒板,kokuban,n,,,N2
+330,finger,指,yubi,n,body part,,N3
+331,egg,卵,tamago,n,food,,N2
+332,newspaper,新聞,shinbun,n,,,N4
+333,bicycle,自転車,jitensha,n,transportation,,N4
+334,what,何,nani,,,,N5
+335,system,システム,shisutemu,n,technology,,K
+336,list,覧,ran,n,,,N1
+337,resource,資料,shiryō,n,,,N3
+338,guideline/policy,指針,shishin,n,,,N2
+339,quantity/amount,数量,sūryō,n,,,N2
+340,update/renewal,更新 ,kōshin,n,technology,,N3
+341,goods/product/item,品,shina,n,,,N4
+342,region/area,地域,chiiki,n,,,N2
+343,potato,じゃがいも,jagaimo,n,vegetable,,H
+344,whale,鯨,kujira,n,animal,,N1
+345,shark,サメ,same,n,animal,,K
+346,blanket,毛布,mōfu,n,,,N2
+347,sneeze,くしゃみをする,kushami o suru,v,,ichidan,H
+348,market,市場,ichiba,n,place,,N3
+349,walk,歩いて行く,aruite iku,v,,godan,N4
+350,tidy up/clean,片付ける,katazukeru,v,,ichidan,N2
+351,partner,パートナー ,pātonā,n,,,K
+352,vending machine,自販機,jihanki,n,gadget,,N2
+353,hamster,ハムスター,hamusutā,n,animal,,K
+354,tractor,トラクター,torakutā,n,transportation,,K
+355,birthday cake,誕生日ケーキ,tanjōbi kēki,n,,,N1
+356,sword,剣,ken,n,,,N1
+357,steal,盗む,nusumu,v,,godan,N3
+358,villain,悪役,akuyaku,n,,,N3
+359,order,注文する,chūmon suru,v,,ichidan,N4
+360,swallow,飲み込む,nomikomu,v,,,N3
+361,fox,キツネ,kitsune,n,animal,,K
+362,be wrong/be incorrect,間違う,machigau,v,,godan,N3
+363,database,データベース,dētabēsu,n,,,K
+364,coconut,ココナッツ,kokonattsu,n,fruit,,K
+365,coin,コイン,koin,n,,,K
+366,hide,隠れる,kakureru,v,,ichidan,N1
+367,magazine,雑誌,zasshi,n,,,N2
+368,smoothie,スムージー,sumūjī,n,,,K
+369,pigeon,鳩,hato,n,animal,,N1
+370,sweet,甘い,amai,adj,,I,N2
+371,holiday,休み,yasumi,n,,,N5
+372,to be born,生まれる,umareru,v,,ichidan,N5
+373,be useful,役に立つ,yakunitatsu,v,,godan,N4
+374,north side,北側,kitagawa,n,,,N3
+375,south side,南側,minamigawa,n,,,N3
+376,shirt,ワイシャツ,waishatsu,n,,,K
+377,dirty,汚い,kitanai,adj,,I,N2
+378,electricity,電気,denki,n,,,N5
+379,narrow/cramped,狭い,semai,adj,,I,N1
+380,time,遠い,jikan,n,,,N3
+381,put,置く,oku,v,,godan,N3
+382,traffic light,信号,shingō,n,,,N3
+383,road,道,michi,n,,,N4
+384,cross,渡る,wataru,v,,godan,N3
+385,depart/come out,出ます,demasu,v,,godan,N5
+386,train,電車,densha,n,transportation,,N5
+387,this year,今年,kotoshi,,time,,N5
+388,air conditioning,エアコン,eakon,n,furniture,,K
+389,enter,入る,hairu,v,,godan,N5
+390,problem,問題,mondai,n,,,N4
+391,corner,角,kado,n,,,N2
+392,turn/bend,曲がる,magaru,v,,godan,N3
+393,mountain,山,yama,n,nature,,N5
+394,remember,覚える,oboeru,v,,ichidan,N3
+395,country,国,kuni,n,,,N5
+396,popularity,人気,ninki,n,,,N5
+397,language,言語,gengo,n,country,,N4
+398,nationality,国籍,kokuseki,n,country,,N2
+399,older,年上,toshiue,adj,,,N5
+400,zebra,シマウマ,shimauma,n,animal,,K
+401,dolphin,イルカ,iruka,n,animal,,K
+402,party,宴会,enkai,n,,,N1
+403,party,パーティー,pātī,n,,,K
+404,dense/strong/thick,濃い,koi,adj,,I,N2
+405,birthplace,出身,shusshin,n,,,N2
+406,succeed,成功する,seikō suru,v,,ichidan,N1
+407,successful,成功した,seikō shita,adj,,special,N1
+408,businessman,ビジネスマン,bijinesuman,n,job,,K
+409,stupid,バカ,baka,adj,,NA,K
+410,writer/author,作家,sakka,n,job,,N4
+411,populous,人口が多い,jinkōgaōi,adj,,I,N4
+412,land,土地,tochi,n,,,N4
+413,wide/spacious,広い,hiroi,adj,,I,N4
+414,Africa,アフリカ,afurika,n,country,,K
+415,continent,大陸,tairiku,n,geography,,N4
+416,planet,惑星,wakusei,n,space,,N1
+417,galaxy,銀河,ginga,n,space,,N2
+418,star,恒星,kōsei,n,space,,N1
+419,gorilla,ゴリラ,gorira,n,,,K
+420,dangerous/risky,危ない,abunai,adj,,I,N3
+421,cabinet,キャビネット,kyabinetto,n,,,K
+422,full,お腹がいっぱい,onaka ga ippai,adj,,special,N3
+423,job/work,仕事,shigoto,n,job,,N4
+424,policeman,警察官,keisatsukan,n,job,,N3
+425,safe/safety,安全,anzen,adj,,NA,N3
+426,mall/shopping mall,ショッピングモール,shoppingu mōru,n,location,,K
+427,animal,動物,dōbutsu,n,animal,,N4
+428,zoo,動物園,dōbutsuen,n,place,,N3
+429,rare,珍しい,mezurashii,adj,,,N2
+430,event,出来事,dekigoto,n,,,N4
+431,careful,慎重,shinchō,adj,,NA,N1
+432,install/equip,設置する,setchi suru,v,,ichidan,N2
+433,friendly/kind/helpful,親切,shinsetsu,adj,,NA,N4
+434,talk a lot/talkative,おしゃべり,oshaberi,adj,,NA,H
+435,South Korea,韓国,kankoku,n,country,,N2
+436,parent,両親,ryōshin,n,family,,N3
+437,germany,ドイツ,doitsu,n,country,,K
+438,Shiba inu,芝犬,shiba inu,n,animal,,N1
+439,pure,純粋,junsui,adj,,NA,N1
+440,Europe,ヨーロッパ,yōroppa,n,country,,K
+441,maybe/most likely,多分,tabun,,,,N4
+442,Spain,スペイン,supain,n,country,,K
+443,frog,蛙,kaeru,n,animal,,N1
+444,sibling,兄弟,kyōdai,n,family,,N4
+445,serve/work (in a company),勤める,tsutomeru,v,,ichidan,N3
+446,military/army,軍,gun,n,,,N2
+447,serve,仕える,serve,v,,ichidan,N4
+448,cleaning,掃除,sōji,n,,,N2
+449,self-introduction,自己紹介,jikoshōkai,n,,,N1
+450,article,文章,bunshō,n,,,N2
+451,sister,姉妹,shimai,n,family,,N4
+452,this morning,今朝,kesa,,,,N4
+453,fall,降る,furu,v,,godan,N3
+454,bath,風呂,furo,n,,,N1
+455,weather,天気,tenki,n,weather,,N5
+456,sunny,晴れ,hare,n,weather,,N3
+457,cloudy,曇り,kumori,n,weather,,N2
+458,rain,雨,ame,n,weather,,N5
+459,snow,雪,yuki,n,weather,,N3
+460,wind,風,kaze,n,weather,,N4
+461,typhoon,台風,taifū,n,weather,,N4
+462,cool,涼しい,suzushii,adj,weather,I,N2
+463,humid/hot,"蒸し暑い	",mushiatsui,adj,weather,I,N1
+464,forecast/prediction,予報,yohō,n,,,N3
+465,outside,外,soto,n,,,N5
+466,foreigner,外人,gaijin,n,,,N5
+467,foreign country,外国,gaikoku,n,country,,N4
+468,humidity,湿度,shitsudo,n,weather,,N2
+469,hard to breath/stuffy,息苦しい,ikigurushii,adj,,I,N3
+470,temperature,温度,ondo,n,weather,,N2
+471,giant,巨大,kyodai,adj,,NA,N2
+472,toward,向かう,mukau,v,,godan,N3
+473,start,始める,hajimeru,v,transitive,ichidan,N4
+474,make/cook,作る,tsukuru,v,,ichidan,N4
+475,warm,暖かい,atatakai,adj,,I,N1
+476,air,空気,kūki,n,,,N4
+477,bank,銀行,ginkō,n,place,,N4
+478,attack,攻撃する,kōgeki suru,v,,ichidan,N1
+479,government,政府,seifu,n,,,N2
+480,surface,表面,hyōmen,n,,,N3
+481,freeze,凍る,kōru,v,,ichidan,N2
+482,exercise/work out,運動する,undō suru,v,,ichidan,N4
+483,fan/electric fan,扇風機,senpūki,n,furniture,,N1
+484,fan/folding fan,扇,ōgi,n,furniture,,N1
+485,old man,老人,rōjin,n,,,N3
+486,weekend,週末,shūmatsu,n,,,N3
+487,knight,騎士,kishi,n,,,N1
+488,polish/brush,磨く,migaku,n,,,N2
+489,think/consider,考える,kangaeru,v,,ichidan,N4
+490,fight,戦う,tatakau,v,,ichidan,N3
+491,laugh,笑う,warau,v,,godan,N3
+492,kangaroo,カンガルー,kangarū,n,animal,,K
+493,doll,人形,ningyō,n,,,N3
+494,fall down,倒れる,taoreru,v,,ichidan,N3
+495,sewage/sewer water,下水,gesui,n,,,N5
+496,bamboo,竹,take,n,nature,,N2
+497,panda,パンダ,panda,n,animal,,K
+498,dive,潜る,moguru,v,,godan,N1
+499,killer/murderer,殺人犯,satsujinhan,n,,,N3
+500,something,何か,nani ka,,,,N5
+501,community,コミュニティ,komyuniti,n,,,K
+502,support,支える,sasaeru,v,,ichidan,N3
+503,hard/solid/stiff,硬い,katai,adj,,I,N2
+504,trash can,ゴミ箱,gomibako,n,,,N3
+505,toilet/restroom,トイレ,toire,n,,,K
+506,printer,プリンター,purintā,,machine,,K
+507,elevator,エレベーター,erebētā,n,,,K
+508,exit,出口,deguchi,n,,,N4
+509,floor/level,階,kai,n,,,N2
+510,office,事務所,jimusho,n,place,,N3
+511,apologize,謝る,ayamaru,v,,godan,N1
+512,stress,ストレス,sutoresu,n,,,K
+513,health,健康,kenkō,n,,,N1
+514,simultaneous,同時,dōji,n,,,N4
+515,receive/accept,受ける,ukeru,v,,ichidan,N3
+516,next,次,tsugi,,,,N3
+517,ride/get on,乗る,noru,v,,godan,N3
+518,finish,終わる,owaru,v,,godan,N4
+519,some,幾つか,ikutsuka,,,,N3
+520,dangerous,危険,kiken,adj,,NA,N3
+521,situation,状態,jōtai,n,,,N1
+522,bloom,咲く,saku,v,,godan,N2
+523,cherry blossom,桜,sakura,n,flower,,N1
+524,button,ボタン,botan,n,,,K
+525,press/push,押す,osu,v,,godan,N3
+526,open,開く,hiraku,v,,godan,N4
+527,available,対応可能,taiō kanō,adj,,NA,N1
+528,river,川,kawa,n,nature,,N5
+529,forest,森,mori,n,nature,,N2
+530,grass,草,kusa,n,nature,,N3
+531,stone,石,ishi,n,,,N5
+532,blow (wind),吹く,fuku,v,,godan,N3
+533,flow (river),流れる,nagareru,v,,ichidan,N3
+534,shine,光る,hikaru,v,,godan,N3
+535,protect,守る,mamoru,v,,godan,N3
+536,protect,環境,kankyō,n,,,N1
+537,clean,掃除する,sōji suru,v,,ichidan,N2
+538,win,勝つ,katsu,v,,godan,N3
+539,tell,伝える,tsutaeru,v,,ichidan,N3
+540,jungle,ジャングル,janguru,n,nature,,K
+541,concert,コンサート,konsāto,n,,,K
+542,arm,腕,ude,n,body part,,N2
+543,hurt,痛む,itamu,v,,godan,N3
+544,get sick,病気になる,byōkininaru,v,,godan,N4
+545,volcano,火山,kazan,n,nature,,N5
+546,waterfall,滝,taki,n,nature,,N1
+547,mountain pass,峠,tōge,n,nature,,N1
+548,desert,砂漠,sabaku,n,nature,,N1
+549,plateau,台地,baichi,n,nature,,N4
+550,plain/flat land,平野,heiya,n,nature,,N3
+551,earth/ground,大地,daichi,n,nature,,N4
+552,tide,潮,shio,n,nature,,N1
+553,flood,洪水,kōzui,n,weather,,N1
+554,thunderstorm,雷雨,raiu,n,weather,,N1
+555,wildlife,野生動物,yasei dōbutsu,n,animal,,N4
+556,insect,昆虫,konchū,n,animal,,N1
+557,nature disaster,自然災害,shizen saigai,n,nature,,N1
+558,earthquake,地震,jishin,n,weather,,N2
+559,ice,氷,kōri,n,nature,,N2
+560,diabetes,糖尿病,tōnyō-byō,n,,,N1
+561,ambulance,救急車,kyūkyūsha,n,,,N1
+562,salary,給料,kyūryō,n,,,N3
+563,break/divide,割る,waru,v,,godan,N3
+564,move (motion),動く,ugoku,v,,godan,N4
+565,earth,地球,chikyū,n,,,N3
+566,human,人間,ningen,n,,,N5
+567,princess,姫,hime,n,,,N1
+568,prince,王子,ōji,n,,,N3
+569,king,王,ō,n,,,N3
+570,fall into/drop down,落ちる,ochiru,v,intransitive,ichidan,N3
+571,grasshopper,バッタ,batta,n,animal,,K
+572,touch,触る,sawaru,v,,godan,N2
+573,ground,地,ji,n,,,N5
+574,leave/exit,出る,deru,v,,ichidan,N5
+575,travel,旅する,tabi suru,v,,ichidan,N4
+576,love,愛する,aisuru,v,,ichidan,N3
+577,stay,滞在する,taizai suru,v,,ichidan,N1
+578,scold,叱る,shikaru,v,,godan,N1
+579,Kanji,漢字,kanji,n,,,N4
+580,chase,追う,ou,v,,godan,N3
+581,praise,賞賛する,shōsan suru,v,,ichidan,N2
+582,suddenly,突然,totsuzen,,,,N3
+583,tell/report/inform,告げる,tsugeru,v,,ichidan,N3
+584,farewell,別れ,wakare,n,,,N4
+585,bite/chew,噛む,kamu,v,,godan,N2
+586,nephew,甥,oi,n,family,,N2
+587,statue,像,zō,n,,,N2
+588,dinosaur,恐竜,kyōryū,n,animal,,N1
+589,meteorite,隕石,inseki,n,,,N3
+590,kill/murder/slay,殺す,korosu,v,,godan,N3
+591,timber,木材,mokuzai,n,job,,N2
+592,life,活,katsu,n,,,N3
+593,electrician,電工,denkō,n,job,,N4
+594,pass,合格する,gōkaku suru,v,,ichidan,N3
+595,headphone,ヘッドホン,heddohon,n,,,K
+596,head,頭,atama,n,body part,,N3
+597,return/go home,帰る,kaeru,v,,godan,N4
+598,pregnant woman,妊婦,ninpu,n,,,N1
+599,good,良い,yoi,adj,,I,N3
+600,cancel/suspend,中止する,chūshi suru,v,,ichidan,N4
+601,picnic,ピクニック,pikunikku,n,,,K
+602,eye,目,me,n,body part,,N4
+603,post office,郵便局,Yūbinkyoku,n,place,,N2
+604,pocket,ポケット,poketto,n,,,K
+605,keep,保つ,tamotsu,v,,godan,N1
+606,healthy,健康,kenkō,n,,NA,N1
+607,mow,刈る,karu,v,,godan,N1
+608,enough/sufficient/fully,十分,jūbun,adj,,NA,N5
+609,enough,足りる,tariru,v,,ichidan,N4
+610,outlet,コンセント,konsento,n,electric,,K
+611,fisherman,漁師,ryōshi,n,job,,N2
+612,mosquito,蚊,ka,n,animal,,N1
+613,fly,ハエ,hae,n,animal,,K
+614,lazy,怠ける,namakeru,v,,ichidan,N1
+615,tool,ツール,tsūru,n,,,K
+616,fix,修正する,shūsei suru,v,,special,N1
+617,feed,餌,esa,n,,,N4
+618,manga,マンガ,manga,n,,,K
+619,customer/client,顧客,kokyaku,n,,,N1
+620,access,アクセスする,akusesu suru,v,,special,K
+621,bamboo forest,竹林,chikurin,n,nature,,N2
+622,body/form,体,karada,n,,,N4
+623,play (instrument),弾く,hiku,v,,godan,N1
+624,hard,大変,taihen,adj,,NA,N3
+625,learn,学ぶ,manabu,v,,godan,N5
+626,frequency,頻度,hindo,n,,,N1
+627,bone,骨,hone,n,body part,,N2
+628,times (counter),回,kai,n,,,N3
+629,soda,ソーダ,sōda,n,,,K
+630,uncle,叔父,oji,n,family,,N1
+631,fishing,釣る,tsuru,v,,godan,N1
+632,challenge,挑戦,chōsen,n,,,N1
+633,necessary/essential,必要,hitsuyō,adj,,NA,N3
+634,all,全部,zenbu,,,,N3
+635,player,選手,senshu,n,,,N3
+636,bet/gamble,賭ける,kakeru,v,,ichidan,N1
+637,slipper,スリッパ,surippa,n,clothes,,K
+638,mineral,ミネラル,mineraru,n,,,K
+639,mystery,ミステリー,misuterī,n,,,K
+640,dragon,ドラゴン,doragon,n,animal,,K
+641,place,場所,basho,n,,,N3
+642,artist,芸術家,geijitsuka,n,job,,N2
+643,pasta,パスタ,pasuta,n,food,,K
+644,beautiful,美しい,utsukushī,adj,,I,N3
+645,hobby,趣味,shumi,n,,,N1
+646,beggar,乞食,kojiki,n,,,N2
+647,volleyball,バレーボール,barēbōru,n,sport,,K
+648,restroom,手洗い,tearai,n,,,N3
+649,email,メール,mēru,n,,,K
+650,vase,花瓶,kabin,n,,,N2
+651,rare,稀,mare,adj,,NA,N1
+652,skip (school),サボる,saboru,v,,godan,K
+653,really,本当に,hontōni,adv,,,N3
+654,reason,理由,riyū,,,,N3
+655,delay/lag,遅れ,okure,n,,,N3
+656,complain,ぼやく,boyaku,v,,godan,H
+657,breath,呼吸,kokyū,n,,,N3
+658,painful,苦しい,kurushī,adj,,I,N3
+659,title,タイトル,taitoru,n,,,K
+660,win/achieve,獲得する,kakutoku suru,v,,ichidan,N1
+661,illegal,違法,ihō,adj,,NA,N3
+662,thought/idea,考えだ,kangaeda,n,,,N4
+663,calm,落ち着く,ochitsuku,v,,godan,N3
+664,explore,探検する,tanken suru,v,,ichidan,N1
+665,goal/objective,目的,mokuteki,n,,,N2
+666,patient,患者,kanja,n,,,N2
+667,skilled,上手,jōzu,adj,,NA,N5
+668,shelf,棚,tana,n,furniture,,N1
+669,totemo,とても,totemo,adv,degree,,H
+670,really/incredibly,すごく,sugoku,adv,degree,,H
+671,fairly/quite,かなり,kanari,adv,degree,,H
+672,extremely,非常に,hijō ni,adv,degree,,N3
+673,rather/fairly,けっこう,kekkō,adv,degree,,H
+674,a little/slightly,ちょっと,chotto,adv,degree,,H
+675,a little/a bit,少し,sukoshi,adv,degree,,N5
+676,not that much,そんなに,sonna ni,adv,degree,,H
+677,fatigue,疲れ,tsukare,n,,,N3
+678,babysit,子守りをする,komori o suru,v,,ichidan,N3
+679,turn off/delete/remove,消す,kesu,v,,godan,N3
+680,turn on,つける,tsukeru,v,,ichidan,H
+681,desk,机,tsukeru,n,furniture,,N2
+682,thing/stuff,物,mono,n,,,N4
+683,mountain peak,山頂,sanchō,n,,,N3
+684,reach,到達する,tōtatsu suru,v,,godan,N3
+685,soldier,兵士,heishi,n,job,,N1
+686,optimal,最適,saiteki,adj,,NA,N3
+687,queen,女王,joō,n,,,N3
+688,strange/weird,変,hen,adj,,NA,N3
+689,translate,翻訳する,honyaku suru,v,,ichidan,N1
+690,race,レース,rēsu,n,,,K
+691,early morning,早朝,sōchō,n,,,N4
+692,sunset,夕日,yūhi,n,,,N4
+693,vacuum cleaner,掃除機,sōjiki,n,gadget,,N2
+694,spaghetti,スパゲッティ,supagetti,n,food,,K
+695,microwave,電子レンジ,denshi renji,n,machine,,N5
+696,bar,バー,bā,n,place,,K
+697,intern,インターン,intān,n,,,K
+698,apartment,アパート,apāto,n,,,K
+699,shine (sun),輝く,kagayaku,v,,godan,N1
+700,living room,リビング,ribingu,n,,,K
+701,maybe/probably,多分,tabun,,,,N5
+702,foot,足,ashi,n,body part,,N4
+703,experience,体験,taiken,n,,,N4
+704,strengthen,強める,tsuyomeru,v,,ichidan,N4
+705,ability,能力,nōryoku,n,,,N3
+706,free time/spare time,暇な時間,himana jikan,n,,,N1
+707,leisure,暇,hima,adj,,NA,N1
+708,Indian,インド,indo,n,country,,K
+709,year,年,toshi,n,time,,N5
+710,confusion,混乱,konran,n,,,N2
+711,incident,事件,jiken,n,,,N3
+712,careful,注意深い,chūibukai,adj,,I,N3
+713,powerful,力強い,chikaradzuyoi,adj,,I,N4
+714,kick,蹴る,keru,v,,ichidan,N1
+715,lift,持ち上げる,mochirageru,v,,ichidan,N4
+716,log (wood),丸太,maruta,n,,,N2
+717,journalist,ジャーナリスト,jānarisuto,n,job,,K
+718,young,若い,wakai,adj,,I,N3
+719,expert,専門家,senmonka,n,,,N2
+720,angry,怒る,okoru,v,,godan,N3
+721,director,監督,kantoku,n,job,,N1
+722,promotion,昇進,shōshin,n,,,N2
+723,valuable,貴重,kichō,adj,,NA,N1
+724,rabbit,兎,usagi,n,animal,,N2
+725,racoon,ラクーン,rakūn,n,animal,,K
+726,constantly,常に,tsune ni,adv,degree,,N3
+727,truck,トラック,torakku,n,transportation,,K
+728,hit/punch/strike,殴る,naguru,v,,godan,N1
+729,rioter,暴徒,bōto,n,,,N2
+730,violent,暴力的,bōryokuteki,adj,,NA,N2
+731,accident,事故,jiko,n,,,N1
+732,certain,確か,tashika,adj,,NA,N3
+733,orderly,整然,seizen,adv,,,N1
+734,mission,任務,ninmu,n,,,N3
+735,mission,ミッション,misshon,n,,,K
+736,childbirth/labouring,出産,shussan,n,,,N3
+737,presentation/announcement,発表,happyō,n,,,N3
+738,take a poop,うんちをする,unchi o suru,v,,ichidan,H
+739,break (egg),割る,waru,v,,godan,N3
+740,midnight,真夜中,mayonaka,n,,,N4
+741,bowling,ボウリング,bōringu,n,sport,,K
+742,tournament,大会,taikai,n,,,K
+743,master,マスター,masutā,n,,,K
+744,chess,チェス,chesu,n,sport,,K
+745,perfect/flawless,完璧,kanpeki,adj,,NA,N2
+746,comfortable,快適,kaiteki,adj,,NA,N2
+747,sand,砂,suna,n,nature,,N2
+748,move (residence),引っ越す,hikkosu,v,,godan,N3
+749,backpack,バックパック,bakku pakku,n,,,K
+750,ground,地面,jimen,n,nature,,N3
+751,bury/cover,埋める,umeru,v,,ichidan,N2
+752,aunt,叔母,oba,n,family,,N1
+753,miso soup,味噌汁,misoshiru,n,food,,N1
+754,taste,味,aji,n,,,N4
+755,cage,檻,ori,n,,,N1
+756,dinner,夕食,yūshoku,n,,,N4
+757,volunteer,志願する,shigan suru,v,,ichidan,N1
+758,leader,リーダ,rīda,n,,,K
+759,ostrich,ダチョウ,dachō,n,animal,,K
+760,air,気,ki,n,,,N5
+761,kilo/kilometer,キロ,kiro,n,metric,,K
+762,throat,喉,nodo,n,body part,,N1
+763,thirsty,喉が渇く,thirsty,v,,godan,N1
+764,handsome,ハンサム,hansamu,adj,,NA,K
+765,plate,皿,sara,n,,,N2
+766,task,タスク,tasuku,n,,,K
+767,arrive,着く,tsuku,v,,godan,N4
+768,prison/jail,監獄,kangoku,n,,,N1
+769,space,スペース,supēsu,n,,,K
+770,France,フランス,furansu,n,country,,K
+771,atmosphere,雰囲気,funiki,n,,,N1
+772,cherry,チェリー,cherī,n,fruit,,K
+773,bomb,爆撃する,bakugeki suru,v,,special,N1
+774,apply (job),応募する,ōbo suru,v,,special,N1
+775,take an exam,受験する,juken suru,v,,ichidan,N3
+776,ceiling,天井,tenjō,n,,,N1
+777,rich/wealthy,裕福,yūfuku,adj,,NA,N1
+778,storage,保管,hokan,n,,,N1
+779,lively/busy,賑やか,nigiyaka,adj,,NA,N2
+780,gym,ジム,jimu,n,place,,K
+781,take (time),掛かる,kakaru,v,,godan,N3
+782,charge,充電する,jūden suru,v,,special,N1
+783,ear,耳,mimi,n,body part,,N3
+784,bat (baseball),バット,batto,n,,,K
+785,damage,傷つける,kizutsukeru,v,,ichidan,N1
+786,monkey,猿,saru,n,animal,,N1
+787,recommend/advice,お勧め,osusume,n,,,N1
+788,victory,勝利,shōri,n,,,N3
+789,extreme heat,猛暑,mōsho,n,,,N1
+790,close (shop),閉店する,heiten suru,v,,ichidan,N3
+791,circus,サーカス,sākasu,n,place,,K
+792,washing machine,洗濯機,sentakki,n,gadget,,N2
+793,castle,城,shiro,n,,,N2
+794,become,なる,naru,v,,godan,H
+795,Antarctica,南極大陸,nankyokutairiku,n,country,,N2
+796,plant,植える,ueru,v,,ichidan,N2
+797,plant,植,ue,n,nature,,N2
+798,fit,合う,au,v,,godan,N3
+799,bottle,瓶,bin,n,,,N2
+800,throw away,捨てる,suteru,v,,ichidan,N2
+801,plain/unattractive,不細工,busaiku,adj,,NA,N2
+802,ugly (appearance),醜い,minikui,adj,,I,N1
+803,temple,寺,tera,n,,,N2
+804,Mars,火星,kasei,n,planet,,N2
+805,choose,選ぶ,erabu,v,,godan,N3
+806,member,メンバー,menbā,n,,,K
+807,dirt/soil,土,tsuchi,n,,,N5
+808,ball/sphere,玉,tama,n,,,N2
+809,hard-working,勤勉,kinben,adj,,NA,N3
+810,work (office),働く,hataraku,v,,godan,N3
+811,calf,子牛,koushi,n,clothes,,N4
+812,wizard/magician,魔法使い,mahōtsukai,n,job,,N1
+813,basic,基礎,kiso,n,,,N1
+814,population,人口,jinkō,n,,,N4
+815,difference,違い,chigai,n,,,N3
+816,painting,絵画,kaiga,n,,,N3
+817,transfer,転勤,tenkin,n,,,N3
+818,vehicle,乗り物,norimono,n,transportation,,N3
+819,grow,育つ,sodatsu,v,,godan,N3
+820,city,市,ichi,n,,,N3
+821,poor (money),貧しい,mazushī,adj,,I,N3
+822,seed,種,tane,n,,,N3
+823,ancient,古代,kodai,adj,,NA,N4
+824,shopping,買い物,kaimono,n,,,N5
+825,be born,生まれ出る,umade reru,v,,ichidan,N5
+826,mouth,口,kuchi,n,body part,,N4
+827,give birth,生む,umu,v,,godan,N5
+828,give,上げる,ageru,v,,ichidan,N5
+829,breed/kind/type,種類,shurui,n,,,N3
+830,tradition,伝統,dentō,n,,,N1
+831,graduate,卒業する,sotsugyō suru,v,,ichidan,N4
+832,boot,ブーツ,būtsu,n,clothes,,K
+833,lose (an item),失くす,nakusu,v,transitive,godan,N3
+834,explore,探索する,tansaku suru,v,,special,N1
+835,tour guide,ツアーガイド,tsuāgaido,n,job,,K
+836,guide,ガイド,gaido,n,,,K
+837,rotate,回転する,kaiten suru,v,,special,N3
+838,last,続く,tsudzuku,v,,godan,N3
+839,war,戦争,sensō,n,,,N3
+840,live stream,ライブ配信する,raibu haishin suru,v,,special,N3
+841,celebrity,有名人,yūmeijin,n,,,N4
+842,fix/repair,直す,naosu,v,,godan,N3
+843,peach,桃,momo,n,fruit,,N1
+844,butcher,屠殺する,tosatsu suru,v,,ichidan,N3
+845,dolphin,イルカ,iruka,n,animal,,K
+846,monk,僧侶,sōryo,n,job,,N1
+847,chopstick,箸,hashi,n,,,N2
+848,soup,汁,shiru,n,food,,N1
+849,villa,別荘,bessō,n,,,N1
+850,break (pen),折る,oru,v,,godan,N3
+851,dirty,汚い,kitanai,adj,,I,N2
+852,fence,フェンス,fensu,n,,,K
+853,a little,少々,shoushou,,,,H
+854,plan,計画する,keikaku suru,v,,ichidan,N4
+855,photographer,写真家,shashinka,n,job,,N4
+856,wall,壁,kabe,n,,,N1
+857,paint/coat/spread,塗る,nuru,v,,godan,N2
+858,call/name/refer to as,呼ぶ,yobu,v,,godan,N3
+859,hole,穴,ana,n,,,N1
+860,dig,掘る,horu,v,,godan,N2
+861,flutter/wing/dance (in the air),舞う,mau,v,,godan,N3
+862,plumber,配管工,haikan kō,n,job,,N2
+863,snake,蛇,hebi,n,animal,,N1
+864,phone number,電話番号,denwabangō,n,,,N3
+865,monster,怪物,kaibutsu,n,,,N1
+866,number,番,ban,n,,,N3
+867,fruit,果物,kudamono,n,,,N3
+868,video/movie,動画,dōga,n,,,N4
+869,properly,ちゃんと,chanto,adv,degree,,H
+870,firework,花火,hanabi,n,,,N4
+871,concert,コンサート,konsāto,n,,,K
+872,catch/capture/arrest,捕まえる,tsukamaeru,v,,ichidan,N3
+873,heat,温める,atatameru,v,,ichidan,N2
+874,heater,ヒーター,hītā,n,gadget,,K
+875,shopping cart,ショッピングカート,shoppingukāto,n,,,K
+876,condition/state,具合,guai,n,,,N3
+877,material,材料,zairyō,n,,,N2
+878,expensive/high-priced,高価,kōka,adj,,NA,N1
+879,gold,金,kin,n,material,,N5
+880,glove,手袋,teburuko,n,clothes,,N2
+881,hot spring,温泉,onsen,n,,,N2
+882,souvernir,土産,miyage,n,,,N3
+883,direction,方向,hōkō,n,,,N3
+884,North,北,kita,n,direction,,N5
+885,South,南,minimi,n,direction,,N5
+886,East,東,higashi,n,direction,,N5
+887,West,西,nishi,n,direction,,N5
+888,straight,"真っ直ぐ	",massugu,n,direction,,N3
+889,bridge,橋,hashi,n,place,,N2
+890,go through/pass,通る,tōru,v,,godan,N4
+891,position (company),役職,yakushoku,n,company,,N3
+892,position,ポジション,pojishon,n,,,K
+893,suitable,適当,tekitō,adj,,NA,N3
+894,paint,ペイント,peinto,n,,,K
+895,spill/overflow,溢れる,afureru,v,,ichidan,N1
+896,ladder,はしご,hashigo,n,,,H
+897,crocodile,鰐,wani,n,animal,,N2
+898,aluminium,アルミニウム,aruminiumu,n,material,,K
+899,chemical substance,化学物質,kagaku busshitsu,n,,,N3
+900,waste (time),無駄にする,mudani suru,v,transitive,ichidan,N1
+901,to be wasted,無駄になる,mudani naru,v,instransitive,godan,N1
+902,kidney,腎臓,jinzō,n,body part,,N1
+903,salt,塩,shio,n,material,,N2
+904,electric vehicle,電気自動車,denki jidōsha,n,transportation,,N4
+905,manufactoring/production,製造,seizō,n,,,N1
+906,tsunami,津波,tsunami,n,nature,,N1
+907,plan,計,kei,n,,,N4
+908,gallery,ギャラリー,gyararī,n,place,,K
+909,watch,時計,tokei,n,clothes,,N4
+910,silver,銀,gin,n,material,,N4
+911,insert/put in,入れる,ireru,v,,ichidan,N5
+912,later,後で,ato de,,,,N5
+913,first/before,先,saki,,,,N5
+914,help,手伝う,tetsudau,n,,godan,N3
+915,laundry,洗濯,sentaku,n,,,N2
+916,housework/chores,家事,kaji,n,,,N4
+917,tool,道具,dōgu,n,,,N3
+918,dessert,デザート,dezāto,n,,,K
+919,Australia,オーストラリア,ōsutoraria,n,country,,K
+920,veteran/senior,古株,furukabu,n,,,N1
+921,helmet,兜,kabuto,n,clothes,,N1
+922,think/feel,思う,omou,v,,godan,N4
+923,gift,贈り物,okurimono,n,,,N2
+924,award/give a present/gift,贈る,okuru,v,,godan,N2
+925,sweet/candy,お菓子,okashi,n,,,N2
+926,voice,声,koe,n,,,N3
+927,easy,易い,yasui,adj,,I,N3
+928,perform/carry out,行う,okonau,v,,godan,N5
+929,shout/yell,叫ぶ,sakebu,v,,ichidan,N2
+930,Spanish,スペイン語,supeingo,n,country,,N5
+931,fluent,流暢,ryūchō,adj,,NA,N1
+932,underwater,水中,suichū,n,,,N5
+933,breath,息をする,iki o suru,v,,ichidan,N3
+934,breath,息,iki,n,,,N3
+935,practice,練習する,renshū suru,v,,ichidan,N2
+936,tear/break/destroy,破る,yaburu,v,,godan,N3
+937,experiment,実験,jikken,n,,,N3
+938,researcher,研究者,kenkyūsha,n,job,,N4
+939,laboratory,研究室,kenkyūshitsu,n,,,N4
+940,cup,杯,hai,n,counter,,N3
+941,special,特別,tokubetsu,n,,NA,N4
+942,note,ノート,nōto,n,,,K
+943,observation,観察,kansatsu,n,,,N3
+944,PC,パソコン,pasokon,n,technology,,K
+945,result/outcome,結果,kekka,n,,,N1
+946,analysis,分析,bunseki,n,,,N1
+947,lastly,最後に,saigo ni,adv,,,N3
+948,report,レポート,repōto,n,,,K
+949,conversation,会話,kaiwa,n,,,N4
+950,sunscreen,日焼け止め,hiyakedome,n,,,N2
+951,burn/bake/roast,焼く,yaku,v,transitive,godan,N2
+952,by/per,別,betsu,,,,N4
+953,sales,売上,uriage,n,,,N4
+954,confirmation,確認,kakunin,n,,,N3
+955,confirm,確認 する,kakunin suru,v,,special,N3
+956,store/shop,店舗,tenpo,n,place,,N1
+957,bring to a conclusion,纏める,matomeru,v,,ichidan,N1
+958,divide/split,分ける,wakeru,n,,,N4
+959,sex/gender,性,sei,n,,,N3
+960,comparison,比較,hikaku,n,,,N1
+961,compare,比較 する,hikaku suru,v,,special,N1
+962,member,会員,kaiin,n,,,N4
+963,club,クラブ,kurabu,n,,,K
+964,new/newly started,新規,shink,adj,,NA,N3
+965,rule,規,tadashi,n,,,N3
+966,count,数,sū,n,,,N3
+967,visitor,来場者,raijōsha,n,,,N4
+968,predection/forecast,予想,yosō,,,,N3
+969,sunglass,サングラス,sanburasu,n,clothes,,K
+970,necklace,ネックレス,nekkurasu,n,clothes,,K
+971,preparation,準備,junbi,n,,,N2
+972,broccoli,ブロッコリー,burokkorī,n,food,,K
+973,ketchup,ケチャップ,kechappu,n,food,,K
+974,water park,ウォーターパーク,wōtā pāku,n,,,K
+975,owner,オーナー,ōnā,n,,,K
+976,opinion/view,意見,iken,n,,,N4
+977,snack,スナック,sunakku,n,food,,K
+978,suit,スーツ,sūtsu,n,clothes,,K
+979,coach,コーチ,kōchi,n,,,K
+980,poor/poverty,貧乏,binbō,n,,,N1
+981,family/home,家庭,katei,n,,,N3
+982,discrimination,差別,sabetsu,n,,,N3
+983,warrior/fighter/combatant,戦士,senshi,n,,,N1
+984,surgery,手術,shujutsu,n,,,N3
+985,patient,忍耐強い,nintaidzuyoi,adj,,I,N1
+986,change,変える,kaeru,v,transitive,ichidan,N3
+987,change,変わる,kawaru,v,intransitive,godan,N3
+988,start,始まる,hajimaru,v,intransitive,godan,N4
+989,stop,止める,yameru,v,transitive,ichidan,N4
+990,stop,止まる,tomaru,v,intransitive,godan,N4
+991,fuel,燃料,nenryō,n,,,N2
+992,electric-powered/electric,電動,dendō,n,,,N4
+993,permit,許証,kyoshō,n,,,N1
+994,driver's license,免許証,menkyoshō,n,,,N1
+995,burn,焼ける,yakeru,v,intransitive,ichidan,N2
+996,aggressive/offensive,攻撃的,kōgekiteki,adj,,NA,N1
+997,dragon,竜,ryū,n,animal,,N1
+998,break/destroy,壊す,kowasu,v,transitive,godan,N1
+999,break/destroy,壊れる,kowareru,v,intransitive,godan,N1
+1000,niece,姪,mei,n,family,,N3
+1001,drop,落とす,otosu,v,transitive,godan,N3
+1002,floor,床,yuka,n,,,N2
+1003,gravity,重力,jūryoku,n,space,,N4
+1004,inject,注射する,chūsha suru,v,,ichidan,N1
+1005,genius,天才,tensai,n,,,N3
+1006,slow,遅い,osoi,adj,,I,N3
+1007,owl,フクロウ,fukurō,n,animal,,K
+1008,flip over/turn upside down,ひっくり返す,hikkurikaesu,v,,godan,N3
+1009,machine,機,ki,n,,,N3
+1010,moment,瞬間,shunkan,n,,,N3
+1011,investment,投資,tōshi,n,,,N3
+1012,platform,プラットフォーム,purattofōmu,n,,,K
+1013,truck driver,トラック運転手,torakku untenshu,n,job,,K
+1014,tunnel,トンネル,tonneru,n,,,K
+1015,tunnel/level,坑道,kōdō,n,,,N1
+1016,criminal,犯罪者,hanzai-sha,n,,,N3
+1017,court,裁判所,saibansho,n,place,,N1
+1018,scientist,科学者,kagakusha,n,job,,N3
+1019,category,カテゴリ,kategori,n,,,K
+1020,bullet train,新幹線,shinkansen,n,transportation,,N1
+1021,scooter,スクーター,sukūtā,n,transportation,,K
+1022,bike,バイク,baiku,n,transportation,,K
+1023,lobby,ロビー,robī,n,,,K
+1024,suitcase,スーツケース,sūtsukēsu,n,,,K
+1025,heavy,重い,omoi,adj,,I,N4
+1026,painting/picture,絵,e,n,,,N3
+1027,plaza/square,広場,hirobi,n,,,N4
+1028,bath,お風呂,ofuro,n,,,N1
+1029,night/evening,夜,yoru,n,time,,N4
+1030,second,秒,byō,n,time,,N2
+1031,minute,分,bun,n,time,,N4
+1032,matcha,抹茶,matcha,n,food,,N1
+1033,cookie,クッキー,kukkī,n,food,,K
+1034,sweets,甘い物,amaimono,n,food,,N2
+1035,together,一緒,issho,,,,N3
+1036,free,ひま,hima,adj,,NA,H
+1037,vegetable,野菜,yasai,n,food,,N2
+1038,soy sauce,醤油,shōyu,n,food,,N2
+1039,tofu,豆腐,tōfu ,n,food,,N1
+1040,homeless,ホームレス,hōmuresu,adj,,NA,K
+1041,salty,塩辛い,shiokarai,v,,I,N2
+1042,sauce,ソース,sōsu,n,food,,K
+1043,donut,ドーナツ,dōnatsu,n,food,,K
+1044,cupcake,カップケーキ,kappukēki,n,food,,K
+1045,cheesecake,チーズケーキ,chīzukēki,n,food,,K
+1046,reject,拒否する,kyohi suru,v,,ichidan,N1
+1047,assignment,課題,kadai,n,,,N2
+1048,chocolate,チョコレート,chokorēto,n,food,,K
+1049,bench,ベンチ,benchi,n,furniture,,K
+1050,grow/increase/expand,増える,fueru,v,,ichidan,N3
+1051,event,イベント,ibento,n,,,K
+1052,participate,参加する,sanka suru,v,,ichidan,N3
+1053,participation,参加,sanka,n,,,N3
+1054,brother-in-law,義理の兄,giri no ani,n,family,,N1
+1055,sister-in-law,義理の姉,giri no ane,n,family,,N1
+1056,father-in-law,義父,gifu,n,family,,N1
+1057,mother-in-law,義母,gibo,n,family,,N1
+1058,relatives,親族,shinzoku,n,family,,N4
+1059,family,身内,miuchi,n,family,,N2
+1060,deadline,締め切り,shimekiri,n,,,N1
+1061,classroom/class,教室,kyōshitsu,n,,,N4
+1062,evening,夕方,yūgata,n,,,N5
+1063,pork,豚肉,butaniku,n,food,,N1
+1064,serve/heat up,盛る,moru,v,,godan,N1
+1065,question,質問,shitsumon,n,,,N4
+1066,answer,答える,kotaeru,v,,ichidan,N4
+1067,hill,丘,oka,n,nature,,N1
+1068,knife,ナイフ,naifu,n,tool,,K
+1069,cut,切る,kiru,v,,godan,N4
+1070,hatch,孵る,kaeru,v,intransitive,ichidan,N1
+1071,hatch/incubate,孵す,kaesu,v,transitive,godan,N1
+1072,monitor,モニター,monitā,n,technology,,K
+1073,fear/dread/afraid of,恐れる,osoreru,v,,ichidan,N3
+1074,lightning,稲妻,inazuma,n,nature,,N1
+1075,rice plant,稲,ine,n,plant,,N1
+1076,field,田,ta,n,,,N5
+1077,rice field,田んぼ,tanbo,n,,,N5
+1078,sway/shake,揺れる,yureru,v,,ichidan,N1
+1079,give,やる,yaru,v,,godan,H
+1080,pick someone up/welcome,迎える,mukaeru,v,,ichidan,N3
+1081,do my best,頑張る,ganbaru,v,,ichidan,N1
+1082,border,国境,kokkyō,n,,,N2
+1083,calculator,電卓,dentaku,n,technology,,N1
+1084,sushi,寿司,sushi,n,food,,N1
+1085,rollercoaster,ジェットコースター,jettokōsutā,n,,,K
+1086,mine,採掘する,saikutsu suru,v,,ichidan,N2
+1087,mine,採掘,saikutsu,n,,,N2
+1088,dictionary,辞書,jisho,n,,,N3
+1089,pencil,鉛筆,enpitsu,n,,,N1
+1090,lead,鉛,namari,n,material,,N1
+1091,pen,筆,fude,n,,,N2
+1092,groom,新郎,shinrō,n,,,N3
+1093,bride,新婦,shinpu,n,,,N3
+1094,wedding,結婚式,kekkonshiki,n,,,N1
+1095,face,顔,kao,n,body part,,N3
+1096,sad,悲しい,kanashī,adj,,I,N3
+1097,show,ショー,shō,n,,,K
+1098,all at once,一度に,ichido ni,,,,N5
+1099,jail/prison,刑務所,keimusho,n,,,N1
+1100,paper,紙,kami,n,,,N5
+1101,tournament,トーナメント,tōnamento,n,,,K
+1102,art museum,美術館,bijutsukan,n,place,,N3
+1103,security guard,警備員,keiibin,n,job,,N3
+1104,meal,食事,shokuji,n,food,,N4
+1105,electrical wire,電線,densen,n,electric,,N2
+1106,get electrocuted,感電する,kanden suru,v,electric,,N3
+1107,season,季節,kisetsu,n,,,N1
+1108,learn,習う,narau,v,,godan,N4
+1109,child,子,ko,n,,,N5
+1110,bucket,バケツ,baketsu,n,,,K
+1111,reception,受付,uketsuke,n,,,N3
+1112,client,クライアント,kuraianto,n,,,K
+1113,decision,決断,keisudan,n,,,N3
+1114,fried rice,炒飯,chāhan,n,,,N4
+1115,adult,大人,otona,n,,,N5
+1116,amusement park/theme park,遊園地,yuenchi,n,place,,N3
+1117,enjoy/have fun,楽しむ,tanoshimu,n,,,N4
+1118,conjunction,接続詞,setsuzokushi,n,,,N2
+1119,presentation,プレゼン,purezen,n,,,K
+1120,invitation,招待,shōtai,n,,,N3
+1121,invite,招待する,shōtai suru,v,,,N3
+1122,green tea,お茶,ocha,n,drink,,N4
+1123,empty,空ける,akeru,v,transitive,ichidan,N4
+1124,become empty/available,空く,aku,v,intransitive,godan,N4
+1125,be late,遅刻する,chikoku suru,v,,special,N3
+1126,go out,出かける,dekakeru,v,,ichidan,N5
+1127,enroll,入学する,nyūgaku suru,v,,special,N5
+1128,schedule/plan,予定,yotei,n,,,N3
+1129,about/approximately,約,yaku,adv,,,N3
+1130,same,同,dō,n,,,N4
+1131,GPS/navigation,ナビ,nabi,n,technology,,K
+1132,lunch,昼食,chūshoku,n,,,N4
+1133,coworker/colleague,同僚,dōryō,n,,,N1
+1134,band,バンド,bando,n,,,K
+1135,corner/section,コーナー,kōnā,n,,,K
+1136,meeting,ミーティング,mītingu,n,,,K
+1137,break,休憩,kyūkei,n,,,N1
+1138,entrance,入り口,iriguchi,n,,,N4
+1139,close,閉まる,shimaru,v,intransitive,godan,N3
+1140,close,閉める,shimeru,v,transitive,ichidan,N3
+1141,lend,貸す,kasu,v,,godan,N4
+1142,wrench,レンチ,renchi,n,tool,,K
+1143,correct,正しい,tadashī,adj,,I,N4
+1144,answer,答え,kotae,n,,,N4
+1145,solve,解く,toku,v,,ichidan,N3
+1146,noon,昼,hiru,n,time,,N4
+1147,hate/dislike,嫌う,kirau,v,,godan,N1
+1148,card game,カードゲーム,kādogēmu,n,,,K
+1149,puzzle,パズル,pazuru,n,,,K
+1150,mascot,マスコット,masukotto,n,,,K
+1151,character,キャラクター,kyarakutā,n,,,K
+1152,be fat,太る,futoru,v,,godan,N3
+1153,take with (living things),連れて行く,tsukete iku,v,,,N3
+1154,fat/thick,太い,futoi,adj,,I,N3
+1155,attraction,アトラクション,atorakushon,n,,,K
+1156,bookstore,本屋,honya,n,place,,N4
+1157,milk,乳,chichi,n,,,N2
+1158,sale,セール,sēru,n,,,K
+1159,fiction,フィクション,fikushon,n,,,K
+1160,novel/story,小説,shōsetsu,n,,,N3
+1161,novel,ノベル,noberu,n,,,K
+1162,history,歴史,rekishi,n,,,N2
+1163,kimchi,キムチ,kimuchi,n,food,,K
+1164,grade/degree,程度,teido,n,,,N3
+1165,life,生活,seikatsu,n,,,N3
+1166,city,都会,tokai,n,,,N3
+1167,statement/speech,発言,hatsugen,n,,,N4
+1168,weight,重さ,omosa,n,,,N4
+1169,climb,登る,noboru,v,,godan,N3
+1170,one time,一度,ichido,adj,,,N3
+1171,organize/sorting,整理,seiri,n,,,N1
+1172,organize/sort out,整理する,seiri suru,v,,ichidan,N1
+1173,investigate,調べる,shiraberu,v,,ichidan,N3
+1174,urgent/sudden,急,kyū,n,,,N4
+1175,admission fee,入場料,nyūjō-ryō,n,,,N4
+1176,camera,カメラ,kamera,n,technology,,K
+1177,lovely,素敵,suteki,adj,,NA,N1
+1178,word/phrase,言葉,kotoba,n,,,N3
+1179,pronounciation,発音,hatsuon,n,,,N4
+1180,pronounce,発音する,hatsuon suru,v,,special,N4
+1181,at the same time,同時に,dōjini,adv,,,N4
+1182,lesson,レッスン,ressun,n,,,K
+1183,happen,起こる,okoru,v,,godan,N4
+1184,game/match,試合,shiai,n,,,N3
+1185,chemistry,化学,kagaku,n,education,,N3
+1186,powder,粉,kona,n,,,N2
+1187,request,リクエスト,rikuesuto,n,,,K
+1188,do again/payback/return (an item),返す,kaesu,v,,godan,N3
+1189,chef,シェフ,shefu,n,job,,K
+1190,be suprised,驚く,odoroku,v,,godan,N1
+1191,marathon,マラソン,marason,n,,,K
+1192,director,理事,riji,n,job,,N4
+1193,iron,鉄,tetsu,n,material,,N2
+1194,stick,棒,bō,n,,,N2
+1195,decorate/adorn,飾る,kazaru,v,,ichidan,N1
+1196,construction worker,建設作業員,kensetsu sagyō-in,n,job,,N2
+1197,mankind,人類,jinrui,n,,,N2
+1198,democracy,民主主義,minshu shugi,n,,,N1
+1199,internship,インターンシップ,intānshippu,n,,,K
+1200,abroad,海外,kaigai,n,,,N4
+1201,myself/by my own,自分,jibun,n,,,N4
+1202,launch,立ち上げる,tachi ageru,v,,ichidan,N4
+1203,project,このプロジェク,purojekuto,n,,,K
+1204,for a while,しばらく,shibaraku,adj,,,H
+1205,vacation/holiday,休暇,kyūka,v,,,N1
+1206,earn,稼ぐ,kasegu,v,,godan,N1
+1207,first (of something),最初,saisho,n,,,N3
+1208,dollar,ドル,doru,n,currency,,K
+1209,beginning/first time,初めて,hajime,n,,,N3
+1210,ability/capability,能力,nōryoku,n,,,N3
+1211,within this year,今年中,kotoshi-chū,n,,,N4
+1212,theme/topic,テーマ,tēma,n,,,K
+1213,research/study,研究,kenkyū,n,,,N4
+1214,advice,アドバイス,adobaisu,n,,,K
+1215,reference,参考,sankō,n,,,N4
+1216,recently/nowadays,最近,saikin,n,,,N3
+1217,young people/youth,若者,wakamono,n,,,N3
+1218,lack/shortage,不足,fusoku,n,,,N4
+1219,instantly/immediately,すぐに,sugu ni,adv,,,H
+1220,cafeteria,食堂,shokudō,n,place,,N4
+1221,potato,じゃが芋,jagaimo,n,food,,N1
+1222,jump,跳ぶ,tobu,v,,,N1
+1223,representative,代表,daihyō,n,,,N3
+1224,final game of a tournament,決勝戦,kesshōsen,n,,,N3
+1225,attend/face,臨む,nozomu,v,intransitive,godan,N1
+1226,address,住所,jūsho,n,,,N3
+1227,thought,思,shitau,n,,,N4
+1228,random,ランダム,randamu,adj,,NA,K
+1229,album,アルバム,arubamu,n,,,K
+1230,name,名前,namae,n,,,N5
+1231,list,挙げる,ageru,v,,ichidan,N1
+1232,music instrument,楽器,gakki,n,,,N1
+1233,listen (attentively),聴く,kiku,v,,godan,N1
+1234,raw/unprocessed,生,nama,adj,,NA,N5
+1235,birthday,誕生日,tanjōbi,n,,,N1
+1236,login,ログイン,roguin,n,,,K
+1237,steak,ステーキ,sutēki,n,,,K
+1238,date,デート,dēto,n,,,K
+1239,contest,コンテスト,kontetsuto,n,,,K
+1240,fashion,ファッション,fasshon,n,,,K
+1241,blog,ブログ,burogu,n,,,K
+1242,performance,パフォーマンス,pafōmansu,n,,,K
+1243,training,トレーニング,torēningu,n,,,K
+1244,guitar,ギター,gitā,n,,,K
+1245,ballet,バレエ,barē,n,,,K
+1246,parade,パレード,parēdo,n,,,K
+1247,stylish,おしゃれ,oshare,adj,,NA,H
+1248,karaoke,カラオケ,karaoke,n,place,,K
+1249,firework display,花火大会,hanabi taikai,n,,,N4
+1250,pop,ポップ,poppu,n,music,,K
+1251,jazz,ジャズ,jazu,n,music,,K
+1252,pro,プロ,puro,n,,,K
+1253,go-kart,ゴーカート,gōkāto,n,,,K
+1254,rock,ロック,rokku,n,music,,K
+1255,documentary,ドキュメンタリー,dokyumentarī,n,,,K
+1256,card games,カードゲーム,kādogēmu,n,,,K
+1257,translator,翻訳者,hon'yaku-sha,n,job,,N1
+1258,fortune/wealth,富,tomi,n,,,N3
+1259,servant,サーバント,sābanto,v,,,K
+1260,wash,洗う,arau,v,,godan,N3
+1261,hand,手,te,n,body part,,N4
+1262,brick,レンガ,renga,n,,,K
+1263,dance,踊る,odoru,v,,godan,N2
+1264,electrician,電気技師,denki gishi,n,job,,N2
+1265,no good/not allowed/impossible,駄目,dame,adj,,NA,N1
+1266,goose,ガチョウ,gachō,n,animal,,K
+1267,reverse,逆,gyaku,adv,,,N2
+1268,turn/rotate,回す,mawasu,v,transitive,godan,N3
+1269,wheel,車輪,sharin,n,,,N2
+1270,degree,度,do,n,,,N5
+1271,fold (clothes),畳む,tatamu,v,,godan,N1
+1272,get off/dismount,降りる,oriru,v,,ichidan,N3
+1273,Christmas,クリスマス,kurisumasu,n,holiday,,K
+1274,spend (time),過ごす,sumasu,v,,godan,N3
+1275,Halloween,ハロウィン,harōin,n,,,K
+1276,beer,ビール,bīru,n,drink,,K
+1277,reserve,予約する,yoyaku suru,v,,ichidan,N3
+1278,ticket,チケット,chiketto,n,,,K
+1279,sell out,売り切れる,urikireru,v,transitive,ichidan,N4
+1280,captain,キャプテン,kyaputen,n,,,K
+1281,pay,支払う,shiharau,v,,godan,N3
+1282,hot dog,ホットドッグ,hottodoggu,n,food,,K
+1283,popcorn,ポップコーン,poppukōn,n,food,,K
+1284,yatch,ヨット,yotto,n,transportation,,K
+1285,kayak,カヤック,kayakku,n,transportation,,K
+1286,be crowded,混む,komu,v,,,N2
+1287,cabbage,キャベツ,kyabetsu,n,food,,K
+1288,carrot,人参,ninjin,n,,,N3
+1289,skiing,スキー,sukī,n,,,K
+1290,tour,ツアー,tsuā,n,,,K
+1291,relax,リラックス,rirakkusu,n,,,K
+1292,heart,心,kokoro,n,body part,,N4
+1293,worry/anxiety,心配,shinpai,n,,,N3
+1294,worry,心配する,shinpai suru,n,,,N3
+1295,absolute,絶対,zettai,n,,,N3
+1296,impossible,無理,muri,adj,,NA,N2
+1297,give up,あきらめる,akirameru,n,,ichidan,H
+1298,confidence,自信,jishin,n,,,N3
+1299,be confident,自信がある,jishin ga aru,v,,ichidan,N3
+1300,proof,証明,shōmei,n,,,N1
+1301,prove,証明する,shōmei suru,v,,ichidan,N1
+1302,grape,グレープ,gurēpu,n,fruit,,K
+1303,pet owner,飼い主,kainushi,n,,,N1
+1304,marvel/mystery/wonder,不思議,fushigi,n,,,N3
+1305,New Year's,お正月,oshōgatsu,n,holiday,,N4
+1306,be proud of,誇りに思う,hokori ni omou,v,transitive,godan,N1
+1307,explanation,説明,setsumei,n,,,N3
+1308,add,足す,tasu,v,,godan,N4
+1309,pull/minus,引く,hiku,v,,godan,N3
+1310,multiply,掛ける,kakeru,v,,ichidan,N3
+1311,divide,割る,waru,v,,godan,N3
+1312,zero,零,rei,n,number,,N2
+1313,hundred million,億,oku,n,number,,N2
+1314,hundred,百,hyaku,n,number,,N5
+1315,thousand,千,sen,n,number,,N5
+1316,ten thousand,万,man,n,number,,N5
+1317,decimal point,小数点,shōsūten,n,number,,N3
+1318,point,点,ten,n,,,N3
+1319,percent,パーセント,pāsento,n,,,K
+1320,product,商品,shōhin ,n,,,N3
+1321,boy,男子,danshi,n,,,N5
+1322,girl,女子,joshi,n,,,N5
+1323,ratio/proportion,比率,hiritsu,n,,,N1
+1324,probability,確率,kakuritsu,n,,,N1
+1325,possibility,可能性,kanōsei,n,,,N2
+1326,chance,チャンス,chansu,n,,,K
+1327,outlook/prospect,見込み,mikomi,n,,,N3
+1328,attic,屋根裏,yaneura,n,,,N2
+1329,livestock,家畜,kachiku,n,animal,,N2
+1330,admit/confess,認める,shitatameru,v,,ichidan,N3
+1331,mistake/error,間違い,machigai,n,,,N3
+1332,mammal,哺乳類,honyūrui,n,animal,,N2
+1333,tomato,トマト,tomato,n,fruit,,K
+1334,mango,マンゴー,mangō,n,fruit,,K
+1335,mathematics,数学,sūgaku,n,,,N3
+1336,math equation,数式,sūshiki,n,,,N3
+1337,first/first time,初,hatsu,n,,,N3
+1338,face to face/meeting,対面,taimen,n,,,N3
+1339,surrounding,周り,mawari,adv,,,N2
+1340,other people/others,他人,tanin,n,,,N3
+1341,unskilfull/clumsy,下手,heta,n,,,N5
+1342,defense,守備,shubi,n,,,N3
+1343,attack,攻撃,kōgeki,n,,,N1
+1344,boss/superior,上司,jōshi,n,,,N1
+1345,monorail,モノレール,monorēru,n,transportation,,K
+1346,balloon,風船,fūsen,n,,,N3
+1347,accurate,正確,seikaku,adj,,NA,N3
+1348,major (study),専攻,senkō,n,,,N1
+1349,science,科学,kagaku,n,,,N3
+1350,campus,キャンパス,kyanpasu,n,,,K
+1351,escalator,エスカレーター,esukarētā,n,,,K
+1352,stair,階段,kaidan,n,,,N2
+1353,good at/strong point,得意,tokui,adj,,NA,N3
+1354,board game,ボードゲーム,bōdogēmu,n,,,K
+1355,volunteer,ボランティア,borantia,n,,,K
+1356,club,クラブ,kurabu,n,,,K
+1357,affiliation,所属,shozoku,n,,,N1
+1358,go out/disappear/vanish,消える,kieru,v,intransitive,ichidan,N3
+1359,rent,家賃,yachin,n,,,N1
+1360,wife,お奥,oku,n,family,,N2
+1361,danger/risk/hazard,危険,kiken,n,,,N3
+1362,direction/side,方,kata,n,,,N4
+1363,experience,経験,keiken,n,,,N3
+1364,dorm,寮,ryō,n,,,N1
+1365,grade/school year,年生,nensei,n,,,N4
+1366,freshman,１年生,ichi nensei,n,,,N4
+1367,sophomore,２年生,ni nensei,n,,,N4
+1368,junior,３年生,san nensei,n,,,N4
+1369,senior,４年生,yo nensei,n,,,N4
+1370,elementary school,小学校,shōgakkō,n,,,N5
+1371,middle school/junior high school,中学校,chūgakkō,n,,,N5
+1372,high school,高校,kōkō,n,,,N5
+1373,character/handwriting,字,ji,n,,,N4
+1374,school trip,修学旅行,shūgakuryokō,n,,,N1
+1375,part-time job,アルバイト,arubaito,n,,,K
+1376,decide,決める,kimeru,v,,,N3
+1377,advance to higher education,進学する,shingaku suru,v,,ichidan,N3
+1378,get a job,就職する,shūshoku suru,v,,ichidan,N1
+1379,activity,活動,katsudō,n,,,N3
+1380,circle/sport club,サークル,sākuru,n,,,K
+1381,job hunting/job searching,就職活動,shūshoku katsudō,n,,,N1
+1382,thesis,論文,ronbun,n,,,N3
+1383,understand/be clear/realize,分かる,wakaru,v,intransitive,godan,N4
+1384,homeland/home country,母国,bogoku,n,,,N5
+1385,serious,真剣,shinken,n,,NA,N1
+1386,feeling/mood,気分,kibun,n,,,N4
+1387,member,員,in,n,,,N4
+1388,staff,スタッフ,sutaffu,n,,,K
+1389,discuss,議論する,giron suru,v,,ichidan,N3
+1390,discussion,議論,giron,n,,,N3
+1391,reality/actuality,実際,jissai,n,,,N3
+1392,actually,実際に,jissai ni,adv,,,N3
+1393,news,ニュース,nyūsu,n,,,K
+1394,true/truth/reality,本当,hontō,n,,,N3
+1395,false/lie,うそ,uso,n,,,H
+1396,effect/effectiveness,効果,kōka,n,,,N2
+1397,life,人生,jinsei,n,,,N5
+1398,stay up late,夜更かしする,yofukashi suru,v,,ichidan,N3
+1399,infertility,不妊,funin,n,,,N1
+1400,absence,欠席,kesseki,n,,,N3
+1401,cockaroach,ゴキブリ,gokiburi,n,,,K
+1402,more and more/increasingly,ますます,masumasu,adv,,,H
+1403,new year's eve,大晦日,ōmisoka,n,holiday,,N3
+1404,line up,並ぶ,narabu,v,,,N2
+1405,stand,立つ,tatsu,v,,godan,N4
+1406,irotoridori,色とりどり,colorful,adj,,NA,N4
+1407,color,色,iro,n,,,N4
+1408,walk/stroll,散歩,sanpo,n,,,N3
+1409,zombie,ゾンビ,zonbi,n,,,K
+1410,shoot,撃つ,utsu,v,,godan,N1
+1411,studying abroad,留学,ryūgaku,n,,,N3
+1412,magic,魔法,mahō,n,,,N1
+1413,main,主,omo,n,,,N4
+1414,weapon,武器,buki,n,,,N1
+1415,gun,銃,jū,n,,,N1
+1416,cane/wand/walking stick,杖,tsue,n,,,N2
+1417,angle,天使,tenshi,n,,,N4
+1418,smile,笑顔,egao,n,,,N3
+1419,pose,ポーズ,pozzu,n,,,K
+1420,posture,構え,kamae,n,,,N3
+1421,get ready/set up,構える,kamaeru,v,,ichidan,N3
+1422,formal,形式的,keishiki-teki,adj,,NA,N2
+1423,gymnastic,体操選手,taisō senshu,n,job,,N1
+1424,gymnast,体操,taisō,n,,,N1
+1425,nature,自然,shizen,adj,,NA,N3
+1426,education,教育,kyōiku,n,,,N3
+1427,demand,需要,juyō,n,,,N1
+1428,personal,個人的,kojin-teki,adj,,NA,N2
+1429,season/period,時期,jiki,n,,,N3
+1430,top priority/maximum priority,最優先,sai yūsen,n,,,N3
+1431,priority,優先,yūsen,n,,,N3
+1432,suitable/competence,適任,tekinin,adj,,NA,N3
+1433,inefficient,非効率,hikōritsu,adj,,,N1
+1434,method/way,方法,hōhō,n,,,N3
+1435,agreement,賛成,sansei,n,,,N3
+1436,efficient,効率的,kōritsu-teki,adj,,NA,N3
+1437,personal opinion,私見,shiken,n,,,N5
+1438,proposal/suggestion,提案,teian,n,,,N1
+1439,charm/glamour,魅力,miryoku,n,,,N1
+1440,lose/be defeated,負ける,makeru,v,,ichidan,N3
+1441,less than,未満,miman,n,,,N3
+1442,cancer,癌,gan,n,,,N1
+1443,cure,治す,naosu,v,,godan,N3
+1444,body weight,体重,taijū,n,,,N4
+1445,household income,世帯収入,setai shūnyū,n,,,N2
+1446,gather/get together,集まる,atsumaru,v,,ichidan,N4
+1447,economy,経済,keizai,n,,,N3
+1448,be late/be delayed,遅れる,okureru,v,,ichidan,N3
+1449,very soon,もうすぐ,mōsugu,adv,,,H
+1450,arrive,到着する,tōchaku suru,v,,ichidan,N3
+1451,arrival,到着,tōchaku,n,,,N3
+1452,importance,重要性,jūyō-sei,n,,,N3
+1453,understand,理解する,rikai suru,v,,ichidan,N3
+1454,success,成功,seikō,n,,,N1
+1455,imagination,想像,sōzō,n,,,N2
+1456,express,急行,kyūkō,n,,,N4
+1457,shake/swing/sway,揺る,yuru,v,transitive,godan,N1
+1458,corner,隅,sumi,n,,,N2
+1459,see/face/notice/confront,見える,mieru,v,,ichidan,N5
+1460,information desk,案内所,annaisho,n,,,N1
+1461,watch,腕時計,udedokei,n,,,N2
+1462,remove/take off,外す,hazusu,v,,godan,N5
+1463,cappuchino,カプチーノ,kapuchīno,n,,,K
+1464,satisfaction,満足,mazoku,n,,,N3
+1465,roommate,ルームメイト,rūmumeito,n,,,K
+1466,burden,負担,futan,n,,,N2
+1467,lively/healthy/fine,元気,genki,adj,,NA,N4
+1468,chameleon,カメレオン,kamereon,n,animal,,K
+1469,nose,鼻,hana,n,body part,,N2
+1470,heat/fever,熱,netsu,n,,,N3
+1471,rude,失礼,shitsurei,adj,,NA,N3
+1472,meeting,会議,kaigi,n,,,N3
+1473,important,大事,daiji,adj,,NA,N4
+1474,document,書類,shorui,n,,,N3
+1475,promise,約束,yakusoku,n,,,N3
+1476,I (male),僕,boku,,,,N1
+1477,date of birth,生年月日,seinengappi,n,,,N5
+1478,fault,せい,sei,n,,,H
+1479,send back,送り返す,okurikaesu,v,,godan,N3
+1480,luggage/package,荷物,nimotsu,n,,,N2
+1481,send/ship,送る,okuru,v,,godan,N4
+1482,spoon,スプーン,supūn,n,,,K
+1483,search/seek/look for,探す,sagasu,v,,godan,N3
+1484,business,ビジネス,bizinesu,n,,,K
+1485,hamster,ハムスター,hamusutā,n,animal,,K
+1486,salad,サラダ,sarada,n,food,,K
+1487,hiking,ハイキング,haikingu,n,,,K
+1488,view/scenery,景色,keshiki,n,,,N3
+1489,pepper,胡椒,koshō,n,,,N1
+1490,seafood,海鮮,kaisen,n,,,N1
+1491,discuss,話し合う,hanashiau,v,,godan,N3
+1492,opportunity/chance,機会,kikai,n,,,N3
+1493,dress,ドレス,doresu,n,clothes,,K
+1494,sell,売る,uru,n,,godan,N4
+1495,take with/bring,持って行く,motte iku,n,,godan,N4
+1496,wonderful,素晴らしい,subarashī,adj,,I,N1
+1497,port,港,minato,n,place,,N3
+1498,port town,港町,minatochō,n,place,,N3
+1499,fresh,新鮮,shinsen,adj,,NA,N1
+1500,ask/request/beg,頼む,tanomu,v,,godan,N3
+1501,fork,フォーク,fōku,n,,,K
+1502,oolong tea,ウーロン茶,ūron cha,n,drink,,N4
+1503,cold/icy/chilly,冷たい,tsumetai,adj,,I,N3
+1504,barbecue,バーベキュー,bābekyū,n,,,K
+1505,get dirty/become soiled,汚れる,yogoreru,v,intransitive,ichidan,N2
+1506,grill,グリル,guriru,n,,,K
+1507,camp/camping,キャンプ,kyanpu,n,,,K
+1508,tent,テント,tento,n,,,K
+1509,Chinatown,中華街,chūkagai,n,,,N1
+1510,tapioca/bubble tea,タピオカ,tapioka,n,drink,,K
+1511,page,ページ,pēji,n,,,K
+1512,go down/come down,下がる,sagaru,n,,,N5
+1513,scissor,はさみ,hasami,n,tool,,H
+1514,sharpness/cutting ability,切れ味,kireaji,n,,,N4
+1515,pot,鍋 ,nabe,n,,,N1
+1516,spicy,辛い,karai,adj,,I,N2
+1517,chinese dumpling,餃子,gyōza,n,,,N1
+1518,change (money),お釣り,otsuri,n,,,N1
+1519,cashier,レジ係,reji-gakari,n,job,,N3
+1520,sightseeing,観光,kankō,n,,,N3
+1521,shrimp,海老,ebi,n,animal,,N3
+1522,live/exist,生きる,ikiru,v,,ichidan,N5
+1523,calculation/count,計算,keisan,n,,,N2
+1524,handover/pass/give,渡す,watasu,v,,godan,N3
+1525,waiter,ウェイター,ueitā,n,,,K
+1526,spa,スパ,supa,n,,,K
+1527,towel,タオル,taoru,n,,,K
+1528,password,パスワード,pasuwādo,n,,,K
+1529,room service,ルームサービス,rūmusābisu,n,,,K
+1530,toast,トースト,tōsuto,n,food,,K
+1531,internet,インターネット,intānetto,n,,,K
+1532,coffee maker,コーヒーメーカー,kōhīmēkā,n,,,K
+1533,credit card,クレジットカード,kurejittokādo,n,,,K
+1534,free,無料,muryō,adj,,NA,N2
+1535,number,番号,bangō,n,,,N3
+1536,confirm/assure/check,確かめる,tashikameru,n,transitive,ichidan,N3
+1537,sour,酸っぱい,suppai,adj,,I,N1
+1538,star,星,hoshi,n,space,,N2
+1539,ghost,幽霊,yūrei,n,,,N1
+1540,telescope,望遠鏡,bōenkyō,n,,,N1
+1541,umbrella,傘,kasa,n,,,N1
+1542,grass,ガラス,gurasu,n,,,K
+1543,freedom/liberty,自由,jiyū,n,,,N3
+1544,religion,宗教,shūkyō,n,,,N1
+1545,snoring,鼾,ibiki,n,,,N1
+1546,snore,鼾をかく,ibiki o kaku,v,,godan,N1
+1547,sturdy,頑丈,ganjō,adj,,NA,N1
+1548,rubber,ゴム,gomu,n,,,K
+1549,eraser,消しゴム,keshigomu,n,,,N3
+1550,altar,祭壇,saidan,n,,,N1
+1551,tooth/teeth,歯,ha,n,body part,,N3
+1552,surfing,波乗り,namimori,n,,ichidan,N2
+1553,case/situation,場合,baai,n,,,N3
+1554,cracker/hard biscuit,乾パン,kanpan,n,,,N2
+1555,horror,ホラー,horā,n,,,K
+1556,seat,席,seki,n,,,N3
+1557,property,財産,zaisan,n,,,N3
+1558,valuables,貴重品,kichō-hin,n,,,N1
+1559,take off,離陸する,ririku suru,v,,ichidan,N1
+1560,obstacle/hindrance,邪魔,jama,n,,,N1
+1561,disturb/interrupt,邪魔する,jama suru,v,,,N1
+1562,cup,コップ,koppu,n,,,K
+1563,stick/paste/put up,貼る,haru,v,,godan,N1
+1564,long time ago,昔,mukashi,n,,,N3
+1565,aquarium,水族館,suizokukan,n,place,,N4
+1566,draw,描く,kaku,v,,godan,N1
+1567,stamp,切手,kitte,n,,,N4
+1568,get/receive,貰う,morau,v,,,N1
+1569,culture,文化,bunka,n,,,N3
+1570,feeling/sensation,気持ち,kimochi,n,,,N4
+1571,care about/worry about,気にする,kini suru,v,,ichidan,N5
+1572,inn/lodging,宿,yado,n,,,N3
+1573,stay,泊まる,tomaru,v,,godan,N2
+1574,remain/be left,残る,nokoru,v,intransitive,godan,N3
+1575,crepe,クレープ,kurēpu,n,,,K
+1576,peanut,ピーナッツ,pīnattsu,n,,,K
+1577,lead/leash,リード,rīdo,n,,,K
+1578,pet,ペット,petto,n,,,K
+1579,keep (animals)/raise,飼う,kau,v,,godan,N1
+1580,aid/looking after,世話,sewa,n,,,N4
+1581,rope,ロープ,rōpu,n,,,K
+1582,sign/signature/autograph,サイン,sain,n,,,K
+1583,Thailand,タイ,tai,n,country,,K
+1584,artist,アーティスト,ātisuto,n,,,K
+1585,stage,ステージ,sutēji,n,,,K
+1586,headphone,ヘッドホン,heddohon,n,,,K
+1587,receipt,レシート,reshīto,n,,,K
+1588,speaker,スピーカー,supīkā,n,,,K
+1589,mouse,マウス,mausu,n,,,K
+1590,keyboard,キーボード,kībōdo,n,,,K
+1591,fried chicken,フライドチキン,furaidochikin,n,,,K
+1592,light/lightweight,軽い,karui,n,,,N2
+1593,clerk,店員,ten'in,n,,,N4
+1594,plastic bag/shopping bag,レジ袋,rejifukuro,n,,,N2
+1595,bag/sack,袋,furuko,n,,,N2
+1596,give (to me)/let one have,呉れる,kureru,v,,ichidan,N1
+1597,middle/centre,真ん中,man'naka,n,,,N4
+1598,battery,電池,denchi,n,,,N2
+1599,charger,充電器,jūdenki,n,,,N1
+1600,on the way,途中で,tochū de,,,,N3
+1601,crazy,クレイジー,kureijī,adj,,NA,K
+1602,sanity/conciousness,正気,shōki,n,,,N4
+1603,north pole,北極,hokkyoku,n,,,N2
+1604,south pole,南極,nankyoku,n,,,N2
+1605,leaf,葉っぱ,happa,n,nature,,N3
+1606,exbihit/exhibition,展示品,tenjihin,n,,,N1
+1607,rubbish/dust,ゴミ,gomi,n,,,K
+1608,hurt/painful,痛い,itai,adj,,,N3
+1609,remote control,リモコン,rimokon,n,,,K
+1610,merchandise,グッズ,guzzu,n,,,K
+1611,pray,祈る,inoru,v,,godan,N2
+1612,prayer,お祈り,oinori,n,,,N2
+1613,boast/pride,自慢,jiman,n,,,N1
+1614,brag/show off,自慢 する,jiman suru,v,,ichidan,N1
+1615,kettle,薬缶,yakan,n,,,N2
+1616,American football,アメフト,amefuto,n,sport,,K
+1617,be open,開かれる,akareru,v,intransitive,ichidan,N4
+1618,rise/swell/be promoted,高まる,takamaru,v,intransitive,godan,N5
+1619,countryside/suburb,田舎,inaka,n,,,N1
+1620,the day before yesterday,一昨日,ototoi,n,,,N3
+1621,the day after tomorrow,明後日,asatte,n,,,N4
+1622,root,根,ne,n,,,N2
+1623,spread,広がる,hirogaru,v,intransitive,godan,N4
+1624,support/sustain,支える,sasaeru,v,,ichidan,N3
+1625,complete,完成する,kansei suru,v,,ichidan,N3
+1626,completion,完成,kansei,n,,,N3
+1627,dorm,ドーム,dōmu,n,,,K
+1628,flag,旗,hata,n,,,N1
+1629,delay/postpone/put off,延期する,enki suru,v,,ichidan,N2
+1630,landlord,大家,ōya,n,,,N4
+1631,soap,石鹸,sekken,n,,,N1
+1632,thick,厚い,atsui,adj,,I,N2
+1633,love/romance,恋愛,ren'ai,n,,,N2
+1634,manga,漫画,manga,n,,,N1
+1635,western-styled clothes,洋服,yōfuku,n,clothes,,N4
+1636,muscle/tendon,筋,suji,n,,,N1
+1637,bookstore,書店,shoten,n,place,,N4
+1638,record/document,記録,kiroku,n,,,N2
+1639,information,情報,jōhō,n,,,N3
+1640,feel/sense/experience,感じる,kanjiru,v,,ichidan,N3
+1641,truth,真実,shinjitsu,n,,,N3
+1642,existance/being,存在,sonzai,n,,,N3
+1643,ping pong,ピンポン,pinpon,n,sport,,K
+1644,break up/split/separate,別れる,wakareru,v,,ichidan,N4
+1645,cancel/discontinuation,中止,chūshi,n,,,N4
+1646,contract,契約,keiyaku,n,,,N1
+1647,signature,署名,shomei,n,,,N2
+1648,strong/durable,丈夫,jōbu,adj,,NA,N1
+1649,alcohol,酒,sake,n,drink,,N3
+1650,attach/connect/follow,付く,oku,v,,godan,N3
+1651,classmate,同級生,dōkyūsei,n,,,N1
+1652,classmate,クラスメート,kurasumēto,n,,,K
+1653,sock,靴下,kutsushita,n,clothes,,N3
+1654,jeans,ジーンズ,jīnzu,n,clothes,,K
+1655,sweater,セーター,sētā,n,clothes,,K
+1656,worn out,ぼろぼろ,boroboro,adj,,NA,H
+1657,inconvenient,不便,fuben,adj,,NA,N3
+1658,drugstore,ドラッグストア,doraggusutoa,n,place,,K
+1659,drugstore,薬局,yakkyoku,n,place,,N3
+1660,tower,タワー,tawā,n,,,K
+1661,accessory,アクセサリー,akusesarī,n,,,K
+1662,set up/establish/make (plan),立てる,tateru,v,,ichidan,N4
+1663,sparkly,キラキラ,kirakira,adj,,NA,K
+1664,design,デザイン,dezain,n,,,K
+1665,hoodie,パーカー,pākā,n,clothes,,K
+1666,pancake,パンケーキ,pankēki,n,food,,K
+1667,muffler/scarf,マフラー,mafurā,n,clothes,,K
+1668,knit,編む,amu,v,,godan,N2
+1669,taste/savor/relish,味わう,ajiwau,v,,godan,N4
+1670,rot/go bad/decay,腐る,kusaru,v,,godan,N1
+1671,stomach,お腹,onaka,n,,,N3
+1672,be surprised/be astonished,驚く,odoroku,v,,godan,N1
+1673,other side/beyond/opposite side,向こう,mukō,n,,,N3
+1674,once upon a time,昔々,mukashimukashi,,time,,N3
+1675,village,村,mura,n,,,N3
+1676,cross over/pass through,越える,koeru,v,intransitive,ichidan,N3
+1677,tale/story/legend,物語,monogatari,n,,,N4
+1678,long time/long time no see,久しぶり,hisashiburi,,time,,N2
+1679,nostalgic,懐かしい,natsukashī,adj,,I,N1
+1680,weak point/weak,苦手,nigate,adj,,NA,N3
+1681,ice skating,アイススケート,aisusukēto,n,sport,,K
+1682,sweet potato,さつまいも,satsumaimo,n,food,,H
+1683,heating/heater,暖房,danbō,n,machine,,N1
+1684,mandarin orange,みかん,mikan,n,fruit,,H
+1685,snowboarding,スノーボード,sunōbōdo,n,sport,,K
+1686,unhappy,不幸せ,fushiawase,adj,,NA,N3
+1687,be in trouble,困る,komaru,v,,godan,N3
+1688,receive,もらう,morau,v,,godan,H
+1689,happy/blessing,幸せ,shiawase,adj,,NA,N3
+1690,storage/reservation,保存,hozon,n,,,N1
+1691,society/public/community,社会,shakai,n,,,N4
+1692,company,会社,kaisha,n,,,N4
+1693,international,国際的,kokusai-teki,adj,,NA,N2
+1694,olympics,オリンピック,orinpikku,n,,,K
+1695,jogging,ジョギング,jogingu,n,sport,,K
+1696,submit/present/hand in,提出する,teishutsu suru,n,,,N1
+1697,second-hand/used,中古,chūko,n,,,N4
+1698,automatic/automatically,自動的,jidōteki,adj,,NA,N2
+1699,update/renewal,更新,kōshin,n,,,N3
+1700,discount,割引,waribiki,n,,,N3
+1701,text book,教科書,kyōkasho,n,,,N3
+1702,hallway/corridor,廊下,rōka,n,,,N1
+1703,advance/go forward,進む,susumu,v,,godan,N3
+1704,ahead/beyond,先,saki,n,,,N5
+1705,customer/guest,お客様,okyakusama,n,,,N3
+1706,cooperation,株式会社,kabushikigaisha,n,,,N1
+1707,manager/department,部長,buchō,n,,,N3
+1708,sleepy,眠い,nemui,adj,,I,N3
+1709,soon,そろそろ,sorosoro,,,,H
+1710,oversleep,寝坊する,nebōsuru,v,,ichidan,N2
+1711,novel,小説,shōsetsu,n,,,N3
+1712,guidance,案内,an'nai,n,,,N1
+1713,guide,案内する,an'nai suru,v,,ichidan,N1
+1714,recommend,勧める,susumeru,v,,ichidan,N1
+1715,hope/wish/desire,願う,negau,v,,godan,N3
+1716,cure/heal/get well,治る,naoru,v,,godan,N3
+1717,peace/harmony,平和,heiwa,n,,,N3
+1718,all/everybody/everyone,皆,mina,n,,,N3
+1719,cooperation,協力,kyōryoku,n,,,N2
+1720,tell a lie,嘘をつく,usowotsuku,v,,godan,N1
+1721,condition,調子,chōshi,n,,,N3
+1722,all day long/the whole day,一日中,ichinichijū,,time,,N5
+1723,operate (machine)/control,操作する,sōsa suru,v,,ichidan,N1
+1724,carry/transport,運ぶ,hakobu,v,,godan,N4
+1725,robot,ロボット,robotto,n,,,K
+1726,generally/usually,大抵,taitei,adv,frequency,,N1
+1727,roughly/generally/mostly,大体,daitai,adv,frequency,,N4
+1728,computer,コンピューター,konpyūtā,n,,,K
+1729,escape/be omitted/come out,抜ける,nukeru,v,,ichidan,N3
+1730,pass through/go through,通り抜ける,tōrinukeru,v,,ichidan,N3
+1731,alarm,アラーム,arāmu,n,,,K
+1732,blanket,ブランケット,buranketto,n,,,K
+1733,message,メッセージ,messēji,n,,,K
+1734,continue/keep up/keep on,続ける,tsudzukeru,v,transitive,ichidan,N3
+1735,sound/ring,鳴る,naru,v,intransitive,godan,N3
+1736,departure,出発,shuppatsu,n,,,N4
+1737,thanks/gratitude,お礼,orei,n,,,N3
+1738,center,センター,sentā,n,,,K
+1739,limited/limit/restrict,限る,kagiru,v,,godan,N3
+1740,eagerness/risking one's life,懸命,kenmei,n,,,N1
+1741,very hard/with all one's might,一生懸命,isshōkenmei,n,,,N1
+1742,hurry/rush,急ぐ,isogu,v,,godan,N4
+1743,cruise,クルーズ,kurūzu,n,transportation,,K
+1744,swimsuit,水着,mizugi,n,clothes,,N4
+1745,lobster,ロブスター,robusutā,n,animal,,K
+1746,all-you-can-eat,食べ放題,tabehōdai,n,,,N3
+1747,hamburger,ハンバーガー,hanbāgā,n,food,,K
+1748,splendid/nice/wonderful,結構,kekkō,adj,,NA,N1
+1749,resort,リゾート,rizōto,n,,,K
+1750,cherry blossom viewing,花見,hanami,n,,,N4
+1751,mochi,餅,mochi,n,food,,N2
+1752,stir-fried noodle,焼きそば,yakisoba,n,food,,N2
+1753,essay,作文,sakubun,n,,,N4
+1754,metal,金属,kinzoku,n,,,N1
+1755,stall/food stall,屋台,yatai,n,,,N4
+1756,mistake/error,間違え,machigae,n,,,N3
+1757,goat,ヤギ,yagi,n,animal,,K
+1758,pet (an animal),なでる,naderu,v,,ichidan,H
+1759,hand gel,ハンドジェル,handojeru,n,,,K
+1760,gift shop,ギフトショップ,gifuto shoppu,n,place,,K
+1761,stuffed toy,ぬいぐるみ,nuigurumi,n,,,H
+1762,collect/gather/assemble,集める,atsumeru,v,transitive,ichidan,N4
+1763,warning/attention/caution,注意,chūi,n,,,N4
+1764,pile up/stack,積む,tsumu,v,,godan,N3
+1765,coffee shop,喫茶店,kissaten,n,place,,N2
+1766,magnet,磁石,jishaku,n,,,N1
+1767,magnet,マグネット,magunetto,n,,,K
+1768,cotton candy,綿あめ,wata ame,n,,,N2
+1769,tissue,ティッシュ,tisshu,n,,,K
+1770,rice porridge,お粥,okayu,n,food,,N1
+1771,bitter,苦い,nigai,adj,,I,N3
+1772,storm/tempest,嵐,arashi,n,weather,,N1
+1773,power outage,停電,teiden,n,,,N2
+1774,jewelry/gem,宝石,hōseki,n,,,N2
+1775,move/shift/stir,動かす,udokasu,v,,godan,N4
+1776,nail,釘,kugi,n,,,N2
+1777,distribute/deliver,配る,kubaru,v,,godan,N3
+1778,check someone's temperature,熱を測る,netsu o hakaru,v,,godan,N2
+1779,treasure,宝,takara,n,,,N2
+1780,solemn,厳粛,genshuku,adj,,NA,N1
+1781,ceremony,式,shiki,n,,,N3
+1782,real-life experience,実体験,jittaiken,n,,,N3
+1783,equality,平等,byōdō,n,,,N3
+1784,class,授業,jugyō,n,,,N1
+1785,online,オンライン,onrain,n,,,K
+1786,cold (illness),風邪,kaze,n,,,N1
+1787,quality,品質,hinshitsu,n,,,N4
+1788,gate,門,mon,n,,,N2
+1789,force/strength,力,chikara,n,,,N4
+1790,refreshing/feel better,すっきり,sukkiri,n,,,H
+1791,detective/investigator,探偵,tantei,n,job,,N1
+1792,action/behavior,行動,kōdō,n,,,N4
+1793,suspicious,怪しい,ayashī,adj,,I,N1
+1794,instant,インスタント,insutanto,n,,,K
+1795,soup,スープ,sūpu,n,food,,K
+1796,office,オフィス,ofisu,n,place,,K
+1797,diligent/serious,真面目,majime,adj,,NA,N3
+1798,hold/have (problems),抱える,kakaeru,v,,ichidan,N3
+1799,all one's power/whole energy,全力,zenryoku,n,,,N3
+1800,skill,スキル,sukiru,n,,,K
+1801,introduction/presentation,紹介,shōkai,n,,,N2
+1802,picture book,絵本,ehon,n,,,N3
+1803,tablet,タブレット,taburetto,n,technology,,K
+1804,improvement (ability),上達,jōtatsu,n,,,N3
+1805,increase,増やす,fuyasu,v,,godan,N3
+1806,peace of mind/relief,安心,anshin,n,,,N4
+1807,save (money),貯める,tameru,v,,ichidan,N2
+1808,as it is,そのまま,sonomama,,,,H
+1809,copy/photocopy,コピー,kopī,n,,,K
+1810,hair (on the head),髪,kami,n,body part,,N3
+1811,each,ずつ,zutsu,,,,H
+1812,bonus,ボーナス,bōnasu,n,,,K
+1813,horizontal/beside/next to,横,yoko,n,direction,,N3
+1814,vertical/height,縦,tate,n,direction,,N1
+1815,row/line/column,列,retsu,n,,,N3
+1816,sandal,サンダル,sandaru,n,clothes,,K
+1817,boots,ブーツ,būtsu,n,clothes,,K
+1818,Mexico,メキシコ,mekishiko,n,,,K
+1819,bracelet,ブレスレット,buresuretto,n,,,K
+1820,shoulder bag,ショルダーバッグ,shorudābaggu,n,,,K
+1821,mug,マグ,magu,n,,,K
+1822,surface,面,men,n,,,K
+1823,cap,キャップ,kyappu,n,clothes,,K
+1824,polo shirt,ポロシャツ,poroshatsu,n,clothes,,K
+1825,size,サイズ,saizu,n,,,K
+1826,button,ボタン,botan,n,,,K
+1827,short/short pant,ショートパンツ,shōtopantsu,n,clothes,,K
+1828,gift card,ギフトカード,gifutokādo,n,,,K
+1829,brand,ブランド,burando,n,,,K
+1830,review,レビュー,rebyū,n,,,K
+1831,coupon,クーポン,kūpon,n,,,K
+1832,partner,パートナー,pātonā,n,,,K
+1833,belt,ベルト,beruto,n,,,K
+1834,handkerchief,ハンカチ,hankachi,n,,,K
+1835,pant,ズボン,zubon,n,clothes,,K
+1836,revolution,革命,kakumei,n,,,N2
+1837,gratitude/appreciation,感謝,kansha,n,,,N1
+1838,tatami mat,畳,tatami,n,,,N2
+1839,splendid/fine/handsome,立派,rippa,adj,,,N1
+1840,Japanese inn/inn,旅館,ryokan,n,,,N4
+1841,help/rescue/save,助ける,tasukeru,v,,ichidan,N3
+1842,leather,革,kawa,n,material,,N2
+1843,be happy/be glad/be delighted,喜ぶ,yorokobu,v,,godan,N3
+1844,failure/mistake/blunder,失敗,shippai,n,,,N3
+1845,talk about/tell,語る,kataru,v,,godan,N5
+1846,involve,巻き込む,makikomu,v,,godan,N2
+1847,lighthouse,灯台,tōdai,n,,,N2
+1848,sea of clouds,雲海,unkai,n,,,N2
+1849,ring,指輪,yubiwa,n,,,N2
+1850,exactly/perfectly,ぴったり,pittari,,,,H
+1851,surely/certainly,必ず,kanarazu,,,,N3
+1852,sashimi,刺身,sashimi,n,food,,N2
+1853,take off (clothes),脱ぐ,nugu,v,,godan,N1
+1854,mushroom,きのこ,kinoko,n,,,H
+1855,coat/tunic/jacket,上着,uwagi,n,clothes,,N4
+1856,bill/note/token,札,fuda,n,,,N2
+1857,cloud,雲,kumo,n,,,N2
+1858,art,芸術,geijutsu,n,,,N2
+1859,inviduality/personality,個性,kosei,n,,,N2
+1860,appear/become invisible,現れる,arawareru,n,intransitive,ichidan,N3
+1861,work (of art),作品,sakuhin,n,,,N4
+1862,attendance,出席,shusseki,n,,,N3
+1863,include/contain,含む,fukumu,n,,godan,N2
+1864,northwest,東北,hokusei,n,direction,,N5
+1865,southeast,南東,nantō,n,direction,,N5
+1866,northeast,北東,hokutō,n,direction,,N5
+1867,southwest,南西,nansei,n,direction,,N5
+1868,research institute,研究所,kenkyūjo,n,,,N3
+1869,soution,解決,kaiketsu,n,,,N3
+1870,literature,文学,bungaku,n,,,N4
+1871,Taiwan,台湾,taiwan,n,country,,N2
+1872,Italy,イタリア,itaria,n,country,,K
+1873,butter,バター,batā,n,food,,K
+1874,recipe,レシピ,reshipi,n,,,K
+1875,gram,グラム,guramu,n,,,K
+1876,grade/result,成績,seiseki,n,,,N2
+1877,onion,玉ねぎ,tamenegi,n,vegetable,,N2
+1878,stew,シチュー,shichū,n,food,,K
+1879,hungry,お腹がすいている,onakagasuiteiru,v,,special,N3
+1880,lonely/lonesome,寂しい,sabishī,adj,,I,N1
+1881,need,要る,iru,v,,godan,N3
+1882,adventure,冒険,bōken,n,,,N1
+1883,assistance/aid/help,助け,tasuke,n,,,N3
+1884,neighborhood,近所,kinjo,n,,,N4
+1885,you/buddy/pal,君,kimi,,,,N3
+1886,suit/match,似合う,niau,n,,godan,N3
+1887,rice bowl,茶碗,chawan,n,,,N2
+1888,flour,小麦粉,komugiko,n,,,N2
+1889,anxiety/uneasiness,不安,fuan,n,,,N4
+1890,life,命,inochi,n,,,N3
+1891,dozen,ダース,dāsu,n,,,K
+1892,reach/arrive/get through,届く,todoku,v,,godan,N2
+1893,reply/answer,返事,henji,n,,,N3
+1894,sound/note,音,oto,n,,,N4
+1895,notice/become aware,気づく,kidzuku,v,,godan,N5
+1896,talk a lot/talkative,よくしゃべる,yoku shaberu,v,,ichidan,H
+1897,dining/dining room,ダイニング,dainingu,n,,,K
+1898,drawer,引き出し,hikigashi,n,,,N3
+1899,entrance area,玄関,genkan,n,,,N1
+1900,husband,旦那さん,danna san,n,family,,N1
+1901,furniture,家具,kagu,n,,,N3
+1902,handmade,手作り,tedzukuri,n,,,N4
+1903,habit,習慣,shūkan,n,,,N3
+1904,reality,現実,genjitsu,n,,,N3
+1905,candy,アメ,ame,n,,,K
+1906,swimming,水泳,suiei,n,,,N3
+1907,strict,厳しい,kibishī,adj,,I,N1
+1908,sticky,ベタベタ,betabeta,adj,,NA,K
+1909,kindergarten,幼稚園,yōchien,n,,,N1
+1910,fuss/clamour,大騒ぎ,ōsawagi,n,,,N1
+1911,lukewarm,温い,nurui,adj,,I,N2
+1912,ad/advertisement,広告,kōkoku,n,,,N3
+1913,request/appeal/claim,求める,motomeru,v,,ichidan,N3
+1914,feeling unwell,具合が悪い,guai ga warui,,,,N3
+1915,neck,首,kubi,n,body part,,N3
+1916,oppose/go against/rebel,逆らう,sakarau,v,,godan,N2
+1917,fall down/fall over,転ぶ,korobu,v,,godan,N4
+1918,hit/strike/knock,打つ,utsu,v,,godan,N3
+1919,effort,努力,doryoku,n,,,N3
+1920,tank,戦車,sensha,n,vehicle,,N3
+1921,wound/cut,傷,kizu,n,,,N1
+1922,cause/source/origin,原因,gen'in,n,,,N3
+1923,thin,細い,hosoi,adj,,I,N2
+1924,pollution,公害,kōgai,n,,,N3
+1925,conciousness/awareness,意識,ishiki,n,,,N3
+1926,clinic,クリニック,kurinikku,n,,,K
+1927,stress,ストレス,sutoresu,n,,,K
+1928,curtain,カーテン,kāten,n,,,K
+1929,shuttle,シャトル,shatoru,n,,,K
+1930,shampoo,シャンプー,shanpū,n,,,K
+1931,greain/sweat/cereal,穀物,kokumotsu,n,,,N4
+1932,boxing,ボクシング,bokushingu,n,,,K
+1933,rice,米,kome,n,,,N3
+1934,escape/run away,逃げる,nigeru,v,,ichidan,N3
+1935,physical education,体育,taiiku,n,,,N3
+1936,art,美術,bijutsu,n,,,N3
+1937,absolutely,まったく,mattaku,,,,H
+1938,academic study,学問,gakumon,n,,,N4
+1939,easy/comfortable,楽,raku,adj,,special,N4
+1940,change of clothes,着替え,kigae,n,,,N2
+1941,normal/usual,普通,futsū,n,,,N2
+1942,tension/nervousness,緊張,kinchō,n,,,N1
+1943,haunted house,お化け屋敷,okebayashi,n,,,N1
+1944,worst,最悪,saiaku,n,,,N3
+1945,app,アプリ,apuri,n,,,K
+1946,main,メイン,mein,n,,,K
+1947,scene,シーン,shīn,n,,,K
+1948,sleep,睡眠,suimin,n,,,N1
+1949,disappointment/unfortunate,残念,zannen,n,,,N3
+1950,acting/performance,演技,engi,n,,,N2
+1951,group,グループ,gurūpu,n,,,K
+1952,tough/tight/hard,固い,katai,adj,,I,N2
+1953,interest,興味,kyōmi,n,,,N1
+1954,ribbon,リボン,ribon,n,,,K
+1955,thick (book),厚い,atsui,adj,,I,N2
+1956,thin (book),薄い,usui,adj,,I,N2
+1957,muscle training,筋トレ,kintore,n,,,N1
+1958,greasy/fatty/oily,脂っこい,aburakkoi,adj,,I,N2
+1959,fried food,揚げ物,agemono,n,,,N1
+1960,daily routine,日課,nikka,n,,,N2
+1961,report,報告書,hōkoku-sho,n,,,N3
+1962,savings,節約,setsuyaku,n,,,N1
+1963,deep motion/impression,感動,kandō,n,,,N3
+1964,enemy/opponent/rival,敵,teki,n,,,N1
+1965,yogurt,ヨーグルト,yōguruto,n,food,,K
+1966,influenza/flu,インフルエンザ,infuruenza,n,,,K
+1967,bow,弓,yumi,n,,,N1
+1968,cellphone,携帯,keitai,n,,,N1
+1969,decrease/reduce,減らす,herasu,v,,godan,N2
+1970,midnight,夜中,yonaka,n,,,N4
+1971,commute/go back and forth,通う,kayou,v,,godan,N4
+1972,like/be pleased with,気に入る,kiniiru,v,,godan,N5
+1973,be wet,濡れる,nureru,v,intransitive,ichidan,N1
+1974,rise/stand up,立ち上がる,tachiagaru,v,,godan,N4
+1975,chat/talk/chatter,喋る,shaberu,v,,ichidan,N1
+1976,communication/contact,連絡,renraku,n,,,N2
+1977,parents' home,実家,jikka,n,,,N3
+1978,make dirty/pollute/soil,汚す,yogosu,v,,,N2
+1979,permission/approval,許可,kyoka,n,,,N2
+1980,drum,太鼓,taiko,n,,,N1
+1981,back/waist,腰,koshi,n,body part,,N2
+1982,desire/wish,望む,nozomu,v,,godan,N3
+1983,leave (behind),残す,nokosu,v,transitive,godan,N3
+1984,leave/go away/depart,去る,saru,v,,godan,N4
+1985,greeting/salutation,挨拶,aisatsu,n,,,N1
+1986,capital/metropolis,都,miyako,n,,,N3
+1987,rigidity/stiff,硬直,kōchoku,n,,,N2
+1988,hospitalization,入院,nyūin,n,,,N4
+1989,visit (someone)/ask after,見舞う,mimau,v,,godan,N3
+1990,dry,乾く,kawaku,v,,godan,N2
+1991,thirsty/be thirsty,渇く,kawaku,v,,godan,N1
+1992,think of/come up with (idea),思いつく,omoitsuku,v,,godan,N4
+1993,review/evaluate,見直す,minaosu,v,,godan,N3
+1994,take back/regain,取り返す,torikaesu,v,,godan,N3
+1995,idea,アイデア,aidea,n,,,K
+1996,receive,受け取る,uketoru,v,,godan,N3
+1997,lose,失う,ushinau,v,,godan,N3
+1998,lyric,歌詞,kashi,n,,,N2
+1999,melody,メロディー,merodī,n,,,K
+2000,classic,クラシック,kurashikku,n,,,K
+2001,tap,タップ,tappu,n,,,K
+2002,value/worth,価値,kachi,n,,,N1
+2003,patrol car,パトカー,patokā,n,vehicle,,K
+2004,siren,サイレン,sairen,n,,,K
+2005,business trip,出張,shutchō,n,,,N1
+2006,development,開発,kaihatsu,n,,,N4
+2007,planning/project/plan,企画,kikaku,n,,,N1
+2008,hold (in a hand)/possess,持つ,motsu,v,,godan,N4
+2009,shaved ice,かき氷,kakigōri,n,,,N2
+2010,change clothes,着替える,kigaeru,v,,ichidan,N2
+2011,Western food,洋食,yōshoku,n,,,N4
+2012,treat/paying for someone,おごり,ogori,n,,,H
+2013,sweat,汗,ase,n,,,N2
+2014,friend/pal,友人,yūjin,n,,,N5
+2015,lemon,レモン,remon,n,fruit,,K
+2016,surfing,サーフィン,sāfin,n,sport,,K
+2017,straw,ストロー,sutorō,n,,,K
+2018,omelet rice,オムライス,omuraisu,n,food,,K
+2019,family restaurant,ファミレス,famiresu,n,,,K
+2020,sausage,ソーセージ,sōsēji,n,,,K
+2021,mayonaise,マヨネーズ,mayonēzu,n,,,K
+2022,limosine,リムジン,rimujin,n,vehicle,,K
+2023,carpet,カーペット,kāpetto,n,,,K
+2024,decoration,デコレーション,dekorēshon,n,,,K
+2025,cucumber,胡瓜,kyūri,n,fruit,,N1
+2026,cucumber,キュウリ,kyūri,n,fruit,,K
+2027,melty/creamy texture,とろとろ,torotoro,adj,,NA,H
+2028,half,半分,hanbun,n,,,N4
+2029,venue/meeting place,会場,kaijō,n,,,N4
+2030,terrible/awful,ひどい,hidoi,adj,,I,H
+2031,kitten,子猫,koneko,n,animal,,N3
+2032,pickup/gather/find,拾う,hirou,v,,godan,N2
+2033,attitude/manner/behaviour,態度,taido,n,,,N1
+2034,shy/embarrassing,恥ずかしい,hazukashī,adj,,I,N3
+2035,cool,冷ます,samasu,v,,godan,N3
+2036,forgive/pardon,許す,yurusu,v,,godan,N3
+2037,skillful/successful/well,上手い,umai,adj,,I,N4
+2038,ask/inquire,尋ねる,tazuneru,v,transitive,ichidan,N1
+2039,partner/companion,相手,aite,n,,,N3
+2040,consent/agreement,納得,nattoku,n,,,N1
+2041,regret,後悔,kōkai,n,,,N1
+2042,monopoly,モノポリ,monopori,n,,,K
+2043,conclusion/ending,結末,ketsumatsu,n,,,N1
+2044,radar,レーダー,rēdā,n,,,K
+2045,reality/truth,実,jitsu,n,,,N3
+2046,secret/mystery,秘密,himitsu,n,,,N1
+2047,circumstance,事情,jijō,n,,,N3
+2048,honesty,正直,shōjiki,n,,,N3
+2049,cupboard/locker,戸棚,tonada,n,,,N1
+2050,unpleasant/gross/don't want to,嫌,iya,adj,,NA,N1
+2051,past,過去,kako,n,,,N3
+2052,accept,受け入れる,ukeireru,v,,ichidan,N3
+2053,fact,事実,jijitsu,n,,,N3
+2054,smile,微笑み,hohoemi,n,,,N1
+2055,float,浮く,uku,v,,godan,N3
+2056,express (emotion),浮かべる,ukaberu,v,,ichidan,N3
+2057,intentionally/on purpose,わざと,wazato,,,,H
+2058,finish/end/be completed,済む,sumu,v,,godan,N3
+2059,eat,召し上がる,meshiagaru,v,honorific,ichidan,N2
+2060,say,おっしゃる,ossharu,v,honorific,godan,H
+2061,go/come,いらっしゃる,irassharu,v,honorific,godan,H
+2062,subject/matter,件,ken,n,,,N3
+2063,say,申す,mōsu,v,humble,godan,N3
+2064,ask/inquire/hear/go/come,伺う,ukagau,v,humble,godan,N2
+2065,go,参る,mairu,v,humble,godan,N2
+2066,take a look/see,拝見する,haiken suru,v,humble,special,N2
+2067,give/offer,差し上げる,sashiageru,v,humble,ichidan,N3
+2068,do,いたす,itasu,v,humble,godan,H
+2069,do,なさる,nasaru,v,honorific,godan,H
+2070,meet,お目にかかる,omenikakaru,v,humble,godan,N4
+2071,receive,いただく,itadaku,v,humble,godan,H
+2072,today,本日,honjitsu,n,,,N5
+2073,sugar,砂糖,satō,n,,,N1
+2074,miracle,奇跡,kiseki,n,,,N1
+2075,catch (living things),捕る,toru,v,,godan,N3
+2076,dinner/evening meal,夕飯,yūhan,n,,,N4
+2077,telephone bill,電話代,denwadai,n,,,N4
+2078,meeting,打ち合わせ,uchiawase,n,,,N3
+2079,influence/impact/effect,影響,eikyō,n,,,N1
+2080,provide/afford/offer,与える,ataeru,n,,,N3
+2081,inform/notify,知らせる,shiraseru,v,,ichidan,N4
+2082,relationship/connection,関係,kankei,n,,,N3
+2083,request/demand,要望,yōbō,v,,,N3
+2084,customer,客,kyaku,n,,,N3
+2085,rich/abundant,豊か,yutaka,adj,,NA,N2
+2086,simplicity/modesty,質素,shisso,adj,,NA,N1
+2087,live,暮らす,kurasu,v,,godan,N3
+2088,condition,条件,jōken,n,,,N1
+2089,make a mistake,誤る,ayamaru,v,,godan,N3
+2090,bell/doorbell,ベル,beru,n,,,K
+2091,obtain/procure,手に入れる,teniireru,v,honorific,ichidan,N4
+2092,become obtainable,手に入る,teniihairu,v,honorific,godan,N4
+2093,alcohol,アルコール,arukōru,n,,,K
+2094,addiction,中毒,chūdoku,n,,,N2
+2095,alcoholism,アル中,aruchū,n,,,N5
+2096,genre,ジャンル,janru,n,,,K
+2097,game center,ゲームセンター,gēmusentā,n,,,K
+2098,parfait,パフェ,pafe,n,,,K
+2099,caramel,カラメル,karameru,n,,,K
+2100,bowling,ボウリング,bouringu,n,,,K
+2101,programming,プログラミング,puroguramingu,n,,,K
+2102,media center,メディアセンター,media sentaa,n,,,K
+2103,earring,イヤリング,iyaringu,n,,,K
+2104,tower,タワー,tawaa,n,,,K
+2105,schedule,スケジュール,sukejuuru,n,,,K
+2106,site,サイト,saito,n,,,K
+2107,mansion,マンション,manshon,n,,,K
+2108,vegetarian,ベジタリアン,bejitarian,n,,,K
+2109,healthy,ヘルシー,herushii,n,,,K
+2110,chef,シェフ,shefu,n,,,K
+2111,Europe,ヨーロッパ,yooroppa,n,country,,K
+2112,actress,女優,joyū,n,job,,N3
+2113,rooftop,屋上,okujō,n,,,N4
+2114,the best/supreme/awesome,最高,saikō,n,,,N3
+2115,be crowded,込む,komu,n,,,N3
+2116,biology,生物学,seibutsugaku,n,subject,,N4
+2117,living thing/organism/creature,生物,seibutsu,n,,,N4
+2118,international student,留学生,ryūgakusei,n,,,N3
+2119,drama/play/theater,演劇,engeki,n,,,N2
+2120,definitely/certainly/by all means,是非,zehi,,,,N1
+2121,height,高さ,takasa,n,,,N5
+2122,fee/charge,料金,ryōkin,n,,,N4
+2123,business card,名刺,meishi,n,,,N2
+2124,indeed/certainly/surely,確かに,tashikani,,,,N3
+2125,from now on/in the future,今後も,kongomo,,,,N5
+2126,want,欲しい,hoshī,adj,,special,N3
+2127,want (someone else),欲しがる,hoshigaru,adj,,special,N3
+2128,scenery/landscape,風景,fūkei,n,,,N3
+2129,news/information/communication,便り,tayori,n,,,N3
+2130,recently,ちかごろ,chikagoro,,,,H
+2131,content/detail,内容,naiyō,,,,N3
+2132,clipping/cut-out,切り抜き,kirinuki,n,,,N3
+2133,idol,アイドル,aidoru,n,,,K
+2134,god,神,kami,n,,,N3
+2135,hardship/trouble,苦労,kurō,n,,,N3
+2136,think/feel/consider,存じる,zonijru,v,,ichidan,N3
+2137,handle/take charge of,手がける,tegakeru,v,,ichidan,N5
+2138,architecture,建築,kenchiku,n,,,N2
+2139,last night,昨夜,sakuya,n,time,,N3
+2140,recall/remember,思い出す,omoi dasu,v,,godan,N4
+2141,genuine,本物,honmono,n,,,N4
+2142,text,テキスト,tekisuto,n,,,K
+2143,ambassador,大使,taishi,n,,,N4
+2144,prediction,予測,yosoku,n,,,N2
+2145,bowing (custom),お辞儀,ojigi,n,,,N1
+2146,senior (work or school),先輩,senpai,n,,,N1
+2147,waiting room,待合室,machiaishitsu,n,,,N3
+2148,underwear,下着,shitagi,n,clothes,,N4
+2149,evidence,証拠,shōko,n,,,N1
+2150,grammar,文法,bunpō,n,,,N3
+2151,spice,スパイス,supaisu,n,,,K
+2152,lasagna,ラザニア,razania,n,food,,K
+2153,pudding,プリン,purin,n,food,,K
+2154,article/supply/part,用品,yōhin,n,,,N4
+2155,golf,ゴルフ,gofuru,n,sport,,K
+2156,stapler,ホッチキス,hotchikisu,n,,,K
+2157,calendar,カレンダー,karendā,n,,,K
+2158,scan,スキャン,sukyan,n,,,K
+2159,raincoat,レインコート,reinkōto,n,,,K
+2160,pocket money/allowance,小遣い,kodzukai,n,,,N1
+2161,firmly/tightly,しっかり,shikkari,,,,H
+2162,license,免許,menkyo,n,,,N1
+2163,count,数える,kazoeru,v,,ichidan,N3
+2164,disappointment,失望,shitsubō,n,,,N3
+2165,school gate,校門,kōmon,n,,,N2
+2166,sticky note/tag/label,付箋,fusen,n,,,N1
+2167,half/half amount,半額,hangaku,n,,,N2
+2168,stationery,文房具,bunbōgu,n,,,N1
+2169,table tennis,卓球,takkyū,n,sport,,N1
+2170,gasoline,ガソリン ,gasorin,n,,,K
+2171,give up,諦める,akirameru,v,,ichidan,N1
+2172,natto (fermented soybean),納豆,nattō,n,,,N1
+2173,withdraw,引き出す,hikidasu,v,,godan,N3
+2174,gloves,手袋,tebukuro,n,clothes,,N2
+2175,annoucer,アナウンサー,anaunsā,n,,,K
+2176,necktie,ネクタイ,nekutai,n,clothes,,K
+2177,corner,片隅 ,katasumi,n,,,N2
+2178,surprise,驚く,odoroku,v,,godan,N1
+2179,grandchild,孫,mago,n,family,,N2
+2180,mirror,鏡,kagami,n,,,N1
+2181,futon,布団,futon,n,,,N2
+2182,high class/high grade,高級,kōkyū,adj,,NA,N1
+2183,boredom/tedium,退屈,taikutsu,n,,,N1
+2184,weekday,平日,heijitsu,n,,,N3
+2185,cleanliness/neat,清潔,seiketsu,n,,,N1
+2186,instruction,指示,shiji,n,,,N3
+2187,mere,単なる,tan'naru,,,,N3
+2188,misunderstanding,誤解,gokai,n,,,N3
+2189,static electricity,静電気,seidenki,n,,,N3
+2190,mud/slush,泥,doro,n,,,N2
+2191,safe/peace,無事,buji,adj,,NA,N2
+2192,traffic,交通,kōtsū,n,,,N3
+2193,approach,迫る,semaru,v,,godan,N1
+2194,by chance/unexpectedly,偶然,gūzen,,,,N3
+2195,envelope,封筒,fūtō,n,,,N2
+2196,wear (hat),被る,kaburu,v,,godan,N2
+2197,at home,在宅,zaitaku,n,,,N3
+2198,master/husband,主人,shujin,n,family,,N4
+2199,comfortable,心地よい,kokochiyoi,adj,,,N4
+2200,resemble/take after,似る,niru,v,,ichidan,N3
+2201,resign/quit,辞める,yameru,v,,ichidan,N3
+2202,the week after next,再来週,saraishū,n,time,,N2
+2203,grandson,孫息子,mago musuko,n,family,,N2
+2204,granddaughter,孫娘,mago musume,n,family,,N2
+2205,along,沿い,soi,,,,N1
+2206,run along/run beside,沿う,sou,v,,godan,N1
+2207,daytime,昼間,hiruma,n,time,,N4
+2208,weak,弱い,yowai,adj,,I,N2
+2209,lunchbox/bento,弁当,bentō,n,food,,N1
+2210,hair (head),髪の毛,kaminoke,n,body part,,N2
+2211,cloth,布,nuno,n,,,N2
+2212,refuse,断る,kotowaru,v,,godan,N3
+2213,black tea,紅茶,kōcha,n,drink,,N2
+2214,treasure,宝物,takaramono,n,,,N2
+2215,habitual/usual/ordinary,普段,fudan,n,,,N2
+2216,honour,光栄,kōei,n,,,N2
+2217,behind time/lateness,遅刻,chikoku,n,,,N3
+2218,the year before last,一昨年,ototoshi,,time,,N3
+2219,every month,毎月,maitsuki,,time,,N5
+2220,bag,鞄,kaban,n,,,N1
+2221,other,他,hoka,,,,N3
+2222,forge/train/discipline,鍛える,kitaeru,v,,ichidan,N1
+2223,meaning,意味,imi,n,,,N4
+2224,passive,受動形,judōkei,n,,,N3
+2225,sentence,文,bun,n,,,N4
+2226,parking lot,駐車場,chūshajō,n,,,N2
+2227,price/cost,値段,nedan,n,,,N3
+2228,round,丸い,marui,adj,,I,N2
+2229,large crowd,大勢,taisei,n,,,N2
+2230,medical science,医学,igaku,n,,,N4
+2231,divorce,離婚,rikon,n,,,N1
+2232,pass away,亡くなる,nakunaru,v,,godan,N3
+2233,point at/indicate,指す,sasu,v,,godan,N3
+2234,lose one's way,迷う,mayou,v,,godan,N3
+2235,kareshi,彼氏,kareshi,n,family,,N1
+2236,single/unmarried,独身,dokushin,n,,,N1
+2237,loose,緩い,yurui,adj,,I,N1
+2238,tough/strict,きつい,kitsui,adj,,I,H
+2239,preparation,用意,yōi,n,,,N4
+2240,resound/resonate,響く,hibiku,v,,godan,N1
+2241,deer,鹿,shika,n,animal,,N1
+2242,car/automobile,自動車,jidōsha,n,,,N4
+2243,ruler,定規,jōgi,n,,,N3
+2244,inside the store,店内,ten'nai,n,,,N3
+2245,fried chicken,唐揚げ,karaage,n,food,,N1
+2246,arrangement,配置,haichi,n,,,N3
+2247,idea/plan/thought,案,an,n,,,N1
+2248,decision,決意,ketsui,n,,,N3
+2249,blouse,ブラウス,burausu,n,clothes,,K
+2250,sliding door,戸,to,n,,,N2
+2251,police box,交番,kōban,n,,,N3
+2252,report,報告,hōkoku,n,,,N3
+2253,lose something,無くす,nakusu,v,,,N2
+2254,circle,丸,maru,n,,,N2
+2255,diamond,ダイヤモンド,daiyamondo,n,,,K
+2256,chicken meat,鶏肉,toriniku,n,,,N1
+2257,line,線,sen,n,,,N2
+2258,tighten/wear/tie,締める,shimeru,v,,ichidan,N1
+2259,business suit,背広,sebiru,n,,,N3
+2260,yukata,浴衣,yukata,n,clothes,,N2
+2261,kimono,着物,kimono,n,clothes,,N4
+2262,short sleeves,半袖,hansode,n,clothes,,N2
+2263,arrange,整える,totonoeru,v,,ichidan,N1
+2264,body type/figure,体型,taikei,n,,,N2
+2265,flute,フルート,furūto,n,,,K
+2266,long sleeves,長袖,nagasode,n,clothes,,N2
+2267,basket,籠,kago,n,,,N1
+2268,band bag,バンドバッグ,bando baggu,n,,,K
+2269,decoration,飾り,kazari,n,,,N1
+2270,height,背,se,n,,,N3
+2271,measure,測る,hakaru,v,,,N2
+2272,lose weight,痩せる,yaseru,v,,ichidan,N2
+2273,occurrence/outbreak,発生,hassei,n,,,N4
+2274,area,辺,hen,n,,,N2
+2275,script,台本,daihon,n,,,N4
+2276,content,中身,nakami,n,,,N2
+2277,joker/clownish person,おどけ者,odokesha,n,,,N4
+2278,enthusiast/geek,オタク,otaku,n,,,K
+2279,registered mail,書留,kakitome,n,,,N3
+2280,delivery/distribution,配達,haitatsu,n,,,N3
+2281,airmail,航空便,kōkū-bin,n,,,N2
+2282,change,変更,henkō,n,,,N3
+2283,postcard,葉書,hagaki,n,,,N3
+2284,notification,通知,tsūchi,n,,,N4
+2285,post/mailbox,ポスト,posuto,n,,,K
+2286,surface mail/sea freight,船便,funabin,n,,,N3
+2287,deliver,届ける,todokeru,v,,ichidan,N2
+2288,parcel/package,小包,kodzutsumi,n,,,N2
+2289,package/wrapping,包み,tsutsumi,n,,,N2
+2290,going out,外出,gaishutsu,n,,,N5
+2291,subject,科目,kamoku,n,,,N3
+2292,delivery item,配達物,haitatsumono,n,,,N3
+2293,legend/tradition/forklore,伝説,densetsu,n,,,N3
+2294,beginner,初心者,shoshinsha,n,,,N3
+2295,boss,ボス,bosu,n,,,K
+2296,decline,減る,heru,v,,godan,N2
+2297,move (house),移る,utsuru,v,,godan,N2
+2298,level,レベル,reberu,n,,,K
+2299,rock-paper-scissor game,じゃん拳,janken,n,,,N1
+2300,rock (RPS item),グー,gū,n,,,K
+2301,paper (RPS item),パー,pā,n,,,K
+2302,scissor (RPS item),チョキ,choki,n,,,K
+2303,maid,メイド,meido,n,,,K
+2304,cosplay,コスプレ,kosupure,n,,,K
+2305,metro,メトロ,metoro,n,,,K
+2306,face on,面する,mensuru,v,,godan,N3
+2307,resident,住民,jūmin,n,,,N3
+2308,hunger,空腹,kūfuku,n,,,N3
+2309,road,道路,dōro,n,,,N3
+2310,calm,冷静,reisei,adj,,NA,N3
+2311,track and field,陸上,rikujō,n,,,N2
+2312,judo,柔道,jūdō,n,,,N2
+2313,mechanic,整備士,seibishi,n,,,N1
+2314,karate,空手,karate,n,,,N4
+2315,wooden hammer,撞木,shumoku,n,,,N1
+2316,bronze,銅,dō,n,metal,,N2
+2317,choice/option/selection,選択,sentaku,n,,,N3
+2318,garnish/side dish,付け合わせ,tsukeawase,n,,,N3
+2319,sculpture,彫刻,chōkoku,n,,,N1
+2320,responsibility,責任感,sekinin,n,,,N3
+2321,rich person,お金持ち,okanemochi,n,,,N4
+2322,deposit,預金,yokin,n,,,N2
+2323,bank account,口座,kōza,n,,,N3
+2324,code,暗証,anshō,n,,,N1
+2325,form/paper,用紙,yōshi,n,,,N4
+2326,printing,印刷,insatsu,n,,,N2
+2327,finance,金融,kin'yū,n,,,N1
+2328,rapid,急速,kyūsoku,n,,,N3
+2329,development/advancement,発展,hatten,n,,,N1
+2330,accountant,会計士,kaikeishi,n,job,,N1
+2331,balance,残高,zandaka,n,,,N3
+2332,currency exchange,両替,ryōgae,n,,,N2
+2333,best friend,親友,shin'yū,n,,,N4
+2334,beach,浜辺,hamabe,n,,,N1
+2335,wave,波,nami,n,,,N2
+2336,shallow,浅い,asai,adj,,I,N2
+2337,separately,別々,betsubetsu,,,,N4
+2338,look at,眺む,nagamu,v,,godan,N1
+2339,view,眺める,nagameru,v,,ichidan,N1
+2340,claim,請求,seikyū,n,,,N1
+2341,invoice,請求書,seikyū-sho,n,,,N1
+2342,cash,現金,genkin,n,,,N3
+2343,check/cheque,小切手,kogitte,n,,,N4
+2344,receipt,領収書,ryōshū-sho,n,,,N2
+2345,year-end party,忘年会,bōnenkai,n,,,N3
+2346,unbearable/intolerable,堪らない,tamaranai,adj,,I,N1
+2347,sad/deep sorrow,哀しい,kanashī,adj,,I,N1
+2348,pass/lapse,経つ,tatsu,v,,godan,N3
+2349,service,サービス,sābisu,n,,,K
+2350,toll/paid/fee based,有料,yūryō,n,,,N4
+2351,way/mean,仕方,shikata,n,,,N4
+2352,both,両方,ryōhō,,,,N3
+2353,such/like this,そういう,souiu,,,,H
+2354,shiny,ピカピカ,pikapika,adj,,NA,K
+2355,faucet,蛇口,jaguchi,n,,,N1
+2356,be wounded,傷つく,kizutsuku,v,,godan,N1
+2357,forearm,前腕,zenwan,n,body part,,N2
+2358,guide,導く,michibiku,v,,godan,N2
+2359,Japanese food,和食,washoku,n,,,N3
+2360,polite,丁寧,teinei,adj,,NA,N1
+2361,surely not/no way,まさか,masaka,,,,H
+2362,pollution/contamination,汚染,osen,n,,,N1
+2363,situation,状況,jōkyō,n,,,N2
+2364,essence,本質,honshitsu,n,,,N4
+2365,future,未来,mirai,n,,,N3
+2366,avoid,避ける,yokeru,v,,ichidan,N1
+2367,quality,質,shitsu,n,,,N4
+2368,quanlity/amount,量,ryō,n,,,N2
+2369,authentic,本場,honba,adj,,NA,N4
+2370,funds/capital,資金,shikin,n,,,N3
+2371,privacy/secrecy,内密,naimitsu,n,,,N1
+2372,bug/insect/cricket,虫,mushi,n,animal,,N2
+2373,bee,蜂,hachi,n,animal,,N1
+2374,approach/get close,近づく,chikadzuku,v,,godan,N4
+2375,wolf,オオカミ,ookami,n,animal,,K
+2376,latest,最新,saishin,n,,,N3
+2377,form/shape,形,katachi,n,,,N3
+2378,wild,野生,yosei,adj,,NA,N4
+2379,effective,効果的,kōka-teki,adj,,NA,N2
+2380,in detail,詳しく,kuwashiku,,,,N1
+2381,detailed/accurate/full,詳しい,kuwashī,adj,,I,N1
+2382,state/appearance/situation,様子,yōsu,n,,,N3
+2383,suspicious/odd/strange,可怪しい,okashii,adj,,I,N1
+2384,discount/price reduction,値引き,nebiki,n,,,N3
+2385,large amount/bulk,大量,tairyō,n,,,N2
+2386,fossil,化石,kaseki,n,,,N3
+2387,bean,豆,mame,n,food,,N1
+2388,by chance,たまたま,tamatama,,,,H
+2389,greengrocer/produce market,八百屋,yaoya,n,,,N4
+2390,musical program,演目,enmoku,n,,,N3
+2391,cover,表紙,hyōshi,n,,,N3
+2392,soymilk,豆乳,tōnyū,n,,,N1
+2393,chop/mince,刻む,kizamu,v,,,N3
+2394,mild/mellow,まろやか,maroyaka,adj,,NA,H
+2395,fine,細かい,komakai,adj,,I,N2
+2396,mix/stir,混ぜる,mazeru,v,,ichidan,N2
+2397,lid/cover,蓋,futa,n,,,N1
+2398,kettle,やかん,yakan,n,,,H
+2399,boil/heat,沸かす,wakasu,v,,godan,N2
+2400,soft/tender/limp,柔らかい,yawarakai,adj,,I,N2
+2401,compare,比べる,kuraberu,v,,ichidan,N2
+2402,experienced person,経験者,keiken-sha,n,,,N3
+2403,see through,見抜く,minuku,v,,godan,N3
+2404,seasoning,調味料,chōmiryō,n,,,N3
+2405,treatment/service,扱い,atsukai,n,,,N1
+2406,odor/smell/scent,匂い,nioi,n,,,N2
+2407,taste/mouthfeel,口当たり,kuchiatari,n,,,N3
+2408,especially,特に,tokuni,,,,N4
+2409,market price,相場,sōba,n,,,N3
+2410,price,価格,kakaku,n,,,N1
+2411,injury/hurt,怪我,kega,n,,,N1
+2412,nature,天然,tennen,n,,,N3
+2413,oil,石油,sekiyu,n,,,N2
+2414,scale,規模,kibo,n,,,N1
+2415,usage/utilization,使用,shiyō,n,,,N4
+2416,enormous/vast,莫大,bakudai,adj,,NA,N2
+2417,match,敵う,kanau,v,,godan,N1
+2418,property/ownership,所有,shoyū,n,,,N3
+2419,desperate,必死,hisshi,adj,,NA,N3
+2420,possible,可能,kanō,adj,,NA,N2
+2421,one's way/own convenience,勝手,katte,n,,,N3
+2422,control/management,管理,kanri,n,,,N2
+2423,revision,改定,kaitei,n,,,N2
+2424,burn,燃える,moeru,v,,ichidan,N2
+2425,reaction,反応,han'nō,n,,,N1
+2426,physics,物理学,butsurigaku,n,,,N4
+2427,geology,地質学,chishitsu-gaku,n,,,N4
+2428,scale,量り,hakari,n,,,N2
+2429,width,幅,haba,n,,,N2
+2430,see,覧る,miru,v,honorific,ichidan,N1
+2431,complex/complicated,複雑,fukuzatsu,adj,,NA,N2
+2432,theory,理論,riron,n,,,N3
+2433,diagram/figure,図,zu,n,,,N4
+2434,plastic,プラスチック,purasuchikku,n,material,,K
+2435,energy,エネルギー,enerugī,n,,,K
+2436,daughter/young lady,お嬢さん,ojōsan,n,family,,N1
+2437,development,開発,kaihatsu,n,,,N4
+2438,unclear/unknown,不明,fumei,adj,,,N4
+2439,correspondence/support,対応,taiō,n,,,N1
+2440,minimum,最低限,saiteigen,n,,,N2
+2441,perfection/completeness,完全,kanzen,n,,,N3
+2442,prototype,試作品,shisaku-hin,n,,,N4
+2443,recycle,リサイクル,risaikuru,n,,,K
+2444,arrest,逮捕,taiho,n,,,N1
+2445,clearly/obviously,明らか,akiraka,,,,N5
+2446,doubt/suspect,疑う,utagau,v,,godan,N3
+2447,eventually/in the end,結局,kekkyoku,,,,N1
+2448,opposition,反対,hantai,n,,,N3
+2449,Jewish,ユダヤ,judaya,n,religion,,K
+2450,Hindu,ヒンドゥー,hindoū,n,religion,,K
+2451,Islam,イスラム,isuramu,n,religion,,K
+2452,Christian,キリスト,kirisuto,n,religion,,K
+2453,seatbelt,シートベルト,shītoberuto,n,,,K
+2454,Buddism,仏教,bukkyō,n,religion,,N2
+2455,visa,ビザ,biza,n,,,K
+2456,suffer,苦しむ,kurushimu,n,,,N3
+2457,law,法律,hōritsu,n,,,N2
+2458,consultation/discussion,相談,sōdan,n,,,N3
+2459,tear,涙,namida,n,,,N2
+2460,preparation,予習,yoshū,n,,,N3
+2461,fluent,ペラペラ,perapera,adj,,NA,K
+2462,carry (on back),背負う,seou,v,,godan,N3
+2463,physical condition,体調,taichō,n,,,N3
+2464,equivalent,相当,sōtō,n,,,N3
