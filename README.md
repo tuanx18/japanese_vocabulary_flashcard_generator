@@ -31,7 +31,9 @@ https://github.com/yourusername/random-word-picker
 
 ## Screenshots
 
-*(Add 2–4 screenshots here when you have them — landing screen, settings, main quiz view with word hidden / revealed)*
+<img width="891" height="689" alt="image" src="https://github.com/user-attachments/assets/45783a53-90bc-41d2-b15c-2a847a82223e" />
+
+<img width="1920" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ff5eac5-db8b-4fa8-b515-69943e97a27b" />
 
 <!-- You can later do:
 ![Landing screen](screenshots/landing.png)
